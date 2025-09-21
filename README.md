@@ -23,3 +23,7 @@ My immediate goal is to find a financial backer or patron. With basic stabilityâ
 I am not asking for an investment in a company. I am seeking a patron who believes in supporting individuals with ideas that can genuinely change the world.
 
 If you are interested in providing this support, please contact me at: Joshfonzydaki@hotmail.com
+
+
+
+google-site-verification: googlee3af5f3cc22a3072.html
