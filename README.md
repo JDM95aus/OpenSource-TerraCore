@@ -1,3 +1,4 @@
+![Self-Sustaining Food Synthesizer Concept Art](Screenshot_20250922_043347_Chrome.jpg)
 ---
 
 The Self-Sustaining Food Synthesizer
