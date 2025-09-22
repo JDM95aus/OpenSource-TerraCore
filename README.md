@@ -1,5 +1,4 @@
-![Self-Sustaining Food Synthesizer Concept](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/raw/main/0_1%20(1).jpeg)
-
+![Self-sustaining solar food synthesizer concept art](images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
 *Concept visualization of the food synthesizer.*
 ---
 
