@@ -1,4 +1,4 @@
-![Concept Art](./images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
+![Concept Art](/images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
 *Concept visualization of the food synthesizer.*
 ---
 
