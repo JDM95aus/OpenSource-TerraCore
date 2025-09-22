@@ -1,6 +1,6 @@
 ![Self-Sustaining Food Synthesizer Concept](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/raw/main/0_1%20(1).jpeg)
 
-*Concept visualization of the fishtank-style food synthesizer.*
+*Concept visualization of the food synthesizer.*
 ---
 
 
