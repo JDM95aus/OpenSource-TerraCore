@@ -1,4 +1,3 @@
-![Self-Sustaining Food Synthesizer Concept Art](Screenshot_20250922_043347_Chrome.jpg)
 ![Self-Sustaining Food Synthesizer Concept](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/raw/main/0_1%20(1).jpeg)
 
 *Concept visualization of the fishtank-style food synthesizer.*
