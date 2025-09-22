@@ -75,6 +75,12 @@ An open-source, solar-powered system that grows and synthesizes affordable, nutr
 - **Equity**: Not seeking - project will remain open-source and independent
 - **Reporting**: Quarterly updates, full financial transparency
 
+# Investment Opportunity: The Self-Sustaining Food Synthesizer
+
+![Concept Art](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/raw/main/0_1%20(1).jpeg)
+
+*Prototype visualization showing the compact, efficient design capable of decentralized food production.*
+
 ## 🎪 The Vision: Beyond Charity
 This isn't about giving away free food - it's about creating a new **food production utility** that communities can own and operate independently. The goal is **food sovereignty**, not dependency.
 
