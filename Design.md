@@ -95,15 +95,16 @@ The system is composed of four integrated, modular subsystems, orchestrated by a
     *   **Goal:** Connect the modules. Enable the "Brain" to command a full cycle from harvest to synthesis.
 *   **Phase 4: Iteration & Field Testing**
     *   **Goal:** Refine for cost, durability, and user-friendliness. Develop deployment plans.
-
 ## 6.0 Call for Collaboration
 
-This project is open-source and requires a diverse team. We are actively seeking:
+This project is open-source and licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. It requires a diverse team:
 *   **Mycologists:** To optimize growth substrates and strains.
 *   **Electrical Engineers:** To design the power and control PCBs.
 *   **Mechanical Engineers:** To design the automation and grinding systems.
-*   **Food Scientists:** To develop nutritious and delicious recipes.
-*   **Software Developers:** To build the control software and user interface.
+*   **Food Scientists:** To develop nutritious and delicious recipes for the synthesis module.
+*   **Software Developers:** To build the control AI and user interface.
+
+**Get started by forking the repository, reviewing the issues, and submitting a pull request.**
 
 **To get started:**
 1.  Review the [GitHub Issues](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/issues) for open tasks.
