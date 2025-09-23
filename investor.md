@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/main/Images/Screenshot_20250922_043347_Chrome.jpg
+https://raw.githubusercontent.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/main/Images/Screen%20shot_20250922_043347_Chrome.jpg
 
 # Investment Opportunity: The Self-Sustaining Food Synthesizer
 
