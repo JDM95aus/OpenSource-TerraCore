@@ -36,6 +36,7 @@ ELECTRONICS:
    - Add fine mesh screens to prevent contamination
 
 environmental control system:
+
 4. Install mist maker:
    - Place in small water reservoir at bottom
    - Waterproof all electrical connections
