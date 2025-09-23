@@ -1,27 +1,126 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>TerraCore™ - Solar Food Synthesizer</title>
+    <title>TerraCore Food Synthesizer - Open Source Solar Food Production</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        body { font-family: sans-serif; margin: 20px; background: #f5f7fa; }
-        .container { background: white; padding: 20px; border-radius: 10px; }
-        h1 { color: #2c5530; text-align: center; }
-        .btn { display: block; background: #4a7c59; color: white; padding: 15px; text-align: center; margin: 10px 0; text-decoration: none; }
+        /* Your existing styles plus new section styles */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; }
+        
+        .hero { 
+            background: linear-gradient(135deg, #2c5530, #4a7c59);
+            color: white; 
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        
+        .section { padding: 3rem 2rem; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        
+        .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
+        .feature-card { background: #f8f9fa; padding: 2rem; border-radius: 10px; }
+        
+        .btn { 
+            display: inline-block; 
+            background: #4a7c59; 
+            color: white; 
+            padding: 1rem 2rem; 
+            text-decoration: none; 
+            border-radius: 5px;
+            margin: 1rem 0;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>TerraCore™</h1>
-        <p><strong>Grow Your Own World</strong></p>
-        <p>Open-source solar food synthesizer</p>
-        
-        <a href="https://github.com/JDM95aus/OpenSource-TerraCore" class="btn">View on GitHub</a>
-        <a href="https://github.com/JDM95aus/OpenSource-TerraCore/discussions" class="btn">Join Discussion</a>
-        
-        <p style="text-align: center; margin-top: 20px; font-size: 14px; color: #666;">
-            TerraCore™ is a trademark
-        </p>
-    </div>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Empowering Food Independence with TerraCore</h1>
+            <p>Open Source Solar-Powered Food Synthesis</p>
+            <a href="https://github.com/JDM95aus/OpenSource-TerraCore" class="btn">Explore TerraCore on GitHub</a>
+        </div>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="section">
+        <div class="container">
+            <h2>Building the Future of Decentralized Food Production</h2>
+            <div class="features">
+                <div class="feature-card">
+                    <h3>Our Mission</h3>
+                    <p>Create open-source, solar-powered systems that enable anyone to grow and synthesize their own food, ending dependency on industrial agriculture.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>Our Technology</h3>
+                    <p>Leveraging mushroom biomass as a biological engine, combined with solar power and automated synthesis to create diverse, nutritious foods.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>Open Source Philosophy</h3>
+                    <p>Every design, schematic, and software component is freely available for anyone to build, modify, and improve.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="section" style="background: #f5f7fa;">
+        <div class="container">
+            <h2>How TerraCore Works</h2>
+            <div class="features">
+                <div class="feature-card">
+                    <h3>🌞 Solar Powered</h3>
+                    <p>Complete off-grid operation using high-efficiency solar panels and smart battery storage.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>🍄 Biomass Growth</h3>
+                    <p>Automated cultivation of oyster mushrooms as the primary food source and synthesis base.</p>
+                </div>
+                <div class="feature-card">
+                    <h3>⚙️ Food Synthesis</h3>
+                    <p>Mechanical processing and nutrient fortification to create diverse food types from mushroom biomass.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="section">
+        <div class="container" style="text-align: center;">
+            <h2>Join the Food Revolution</h2>
+            <p>Help us build the future of sustainable, decentralized food production</p>
+            <a href="https://github.com/JDM95aus/OpenSource-TerraCore" class="btn">View on GitHub</a>
+            <a href="https://github.com/JDM95aus/OpenSource-TerraCore/discussions" class="btn">Join Discussion</a>
+        </div>
+    </section>
+
+    <!-- Real Contributors -->
+    <section class="section" style="background: #f5f7fa;">
+        <div class="container">
+            <h2>Our Community</h2>
+            <div class="features">
+                <div class="feature-card">
+                    <h3>Project Founder</h3>
+                    <p><strong>JDM95</strong><br>Creating the open-source blueprints for decentralized food synthesis</p>
+                </div>
+                <div class="feature-card">
+                    <h3>First Contributor</h3>
+                    <p><strong>moneyish69</strong><br>Developed the sensor logging system foundation</p>
+                </div>
+                <div class="feature-card">
+                    <h3>You?</h3>
+                    <p>Join our growing community of developers, engineers, and food security advocates</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background: #2c5530; color: white; padding: 2rem; text-align: center;">
+        <div class="container">
+            <p>© 2025 TerraCore Open Source Project - Growing a resilient future, one unit at a time</p>
+            <p>Licensed under CC BY-NC-SA 4.0 | <a href="https://github.com/JDM95aus/OpenSource-TerraCore" style="color: white;">GitHub Repository</a></p>
+        </div>
+    </footer>
 </body>
 </html>
