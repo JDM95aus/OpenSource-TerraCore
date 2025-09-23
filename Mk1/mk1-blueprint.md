@@ -47,6 +47,7 @@ environmental control system:
    - Mount on front panel for easy reading
 
 6. Wiring diagram:
+   
    [Arduino] → [DHT22] → [LCD]
            → [Relay] → [Fan]
                    → [Mist Maker]
