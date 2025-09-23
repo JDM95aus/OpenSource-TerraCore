@@ -3,7 +3,7 @@
 
 
 ![TerraCore Concept](Images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
-
+*Concept art depiction only, real models will vary massively
 
 > **Grow Your Own World**
 
