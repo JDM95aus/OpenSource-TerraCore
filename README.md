@@ -4,9 +4,9 @@
 
 An open-source, solar-powered system to grow and synthesize food from enrichment biomass
 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Issues: 3 open
-(https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)]
+
 [![GitHub Issues](https://img.shields.io/github/issues/JDM95aus/Self-sustaining-solar-food-synthesiser-)](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/issues)
 [![Discussions](https://img.shields.io/badge/Join-Discussions-green)](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/discussions)
 
