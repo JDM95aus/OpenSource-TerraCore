@@ -149,6 +149,7 @@ MONTHLY:
 - Update documentation with lessons learned
 
 Troubleshooting guide:
+
 PROBLEM: Low humidity in growth chamber
 SOLUTION: Check mist maker water level, ensure seals are tight
 
