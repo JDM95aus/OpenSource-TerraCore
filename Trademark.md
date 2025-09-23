@@ -72,3 +72,6 @@ For trademark questions or permission requests:
 
 *This policy is part of the TerraCore™ project. Last updated: 23-SEP-2025*  
 *This document is licensed under CC BY 4.0. The TerraCore™ name and logo are trademarks.*
+
+<p>TerraCore™ is a trademark used under common law for the open-source solar food synthesis project. 
+Unauthorized commercial use prohibited. See <a href="Trademark.md">Trademark Policy</a>.</p>
