@@ -29,6 +29,8 @@ An open-source, solar-powered system that grows and synthesizes affordable, nutr
 - **Nutritional customization** for specific community needs
 - **Open-source philosophy** prevents corporate capture
 
+
+
 ## 🚀 Development Roadmap & Funding Needs
 ### Phase 1: Working Prototype (Months 1-12)
 - **Goal**: Functional growth chamber with basic synthesis
