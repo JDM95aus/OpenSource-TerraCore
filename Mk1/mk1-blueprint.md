@@ -1,6 +1,7 @@
 growth chamber detailed build instructions
 
 material list:
+
 MAIN STRUCTURE:
 - 2x 5-gallon food-grade buckets 
 - 12V DC computer fan 
