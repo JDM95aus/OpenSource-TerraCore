@@ -2,6 +2,8 @@
 
 ![Food Synthesizer Concept](images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
 
+- **Food Synthesizer Concept**
+
 An open-source, solar-powered system to grow and synthesize food from enrichment biomass
 
 License: CC BY-NC-SA 4.0
