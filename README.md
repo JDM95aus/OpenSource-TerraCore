@@ -10,7 +10,7 @@ An open-source, solar-powered system to grow and synthesize food from enrichment
 
 > **An open-source, solar-powered system to grow and synthesize food from mushroom biomass. Decentralizing food production to end dependency on industrial agriculture.**
 
-**Explore the Technical Design** | **Join the Discussion**
+**Explore the Technical Design** |
 
 ---
 
