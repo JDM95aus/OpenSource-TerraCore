@@ -19,7 +19,7 @@ ELECTRONICS:
 - USB cable for Arduino
 
 - step-by-step instructions:
-- 
+ 
 1. Cut viewing windows in both buckets:
    - Mark 4"x6" rectangle on side of each bucket
    - Use Dremel or jigsaw to cut openings
@@ -152,17 +152,17 @@ MONTHLY:
 
 Troubleshooting guide:
 
-PROBLEM: Low humidity in growth chamber
-SOLUTION: Check mist maker water level, ensure seals are tight
+-PROBLEM: Low humidity in growth chamber
+-SOLUTION: Check mist maker water level, ensure seals are tight
 
-PROBLEM: Mushrooms not fruiting
-SOLUTION: Adjust temperature, check substrate moisture
+-PROBLEM: Mushrooms not fruiting
+-SOLUTION: Adjust temperature, check substrate moisture
 
-PROBLEM: Grinder jamming
-SOLUTION: Pre-dry mushrooms slightly, use smaller batches
+-PROBLEM: Grinder jamming
+-SOLUTION: Pre-dry mushrooms slightly, use smaller batches
 
-PROBLEM: Solar oven not reaching temperature
-SOLUTION: Improve reflectors, adjust angle to sun
+-PROBLEM: Solar oven not reaching temperature
+-SOLUTION: Improve reflectors, adjust angle to sun
 
 success metric:
  1: System operational, mushrooms inoculated
@@ -171,7 +171,7 @@ success metric:
  Refine recipes, document results
 
  expansion options:
- - Automated lighting control
+- Automated lighting control
 - Remote monitoring via WiFi
 - Larger capacity growth chambers
 - Multiple processing stations
