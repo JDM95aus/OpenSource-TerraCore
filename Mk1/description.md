@@ -20,7 +20,7 @@ What This ISN'T:
 
 The "Bare Minimum" Design Philosophy
 
-Budget: Under $500
+Budget: Under $1000
 
 · Uses common hardware store parts
 · Repurposes everyday items (buckets, containers)
