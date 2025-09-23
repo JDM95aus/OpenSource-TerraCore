@@ -1,12 +1,10 @@
 # Self-Sustaining Solar Food Synthesizer
 
-![Food Synthesizer Concept](images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
-
-- **Food Synthesizer Concept**
+![Food Synthesizer Concept](Images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
 
 An open-source, solar-powered system to grow and synthesize food from enrichment biomass
 
-License: CC BY-NC-SA 4.0
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Issues: 3 open
 (https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![GitHub Issues](https://img.shields.io/github/issues/JDM95aus/Self-sustaining-solar-food-synthesiser-)](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/issues)
