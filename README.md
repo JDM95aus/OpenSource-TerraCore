@@ -1,6 +1,8 @@
 # TerraCore™: The Open-Source Solar Food Synthesizer
 
+
 ![TerraCore Concept](Images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
+
 
 > **Grow Your Own World**
 
