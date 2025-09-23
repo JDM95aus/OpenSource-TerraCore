@@ -153,15 +153,19 @@ MONTHLY:
 Troubleshooting guide:
 
 -PROBLEM: Low humidity in growth chamber
+
 -SOLUTION: Check mist maker water level, ensure seals are tight
 
 -PROBLEM: Mushrooms not fruiting
+
 -SOLUTION: Adjust temperature, check substrate moisture
 
 -PROBLEM: Grinder jamming
+
 -SOLUTION: Pre-dry mushrooms slightly, use smaller batches
 
 -PROBLEM: Solar oven not reaching temperature
+
 -SOLUTION: Improve reflectors, adjust angle to sun
 
 success metric:
