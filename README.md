@@ -9,7 +9,7 @@ An open-source, solar-powered system to grow and synthesize food from enrichment
 [![Join Discussion](https://img.shields.io/badge/Join_Discussion-Vision_2-blue.svg)](https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/discussions/2)
 
 > **An open-source, solar-powered system to grow and synthesize food from mushroom biomass. Decentralizing food production to end dependency on industrial agriculture.**
-
+or I like to call it TerraCore
 ---
 
 ## 🌱 The Vision: A Food-Secure Future
