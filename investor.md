@@ -1,4 +1,5 @@
-https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/blob/main/Images/Screenshot_20250922_043347_Chrome.jpg
+https://raw.githubusercontent.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/main/Images/Screenshot_20250922_043347_Chrome.jpg
+
 # Investment Opportunity: The Self-Sustaining Food Synthesizer
 
 ## 🎯 Executive Summary
@@ -30,7 +31,7 @@ An open-source, solar-powered system that grows and synthesizes affordable, nutr
 - **Nutritional customization** for specific community needs
 - **Open-source philosophy** prevents corporate capture
 
-https://github.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/blob/main/Images/0_1%20(1)%20(1).jpeg
+https://raw.githubusercontent.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/main/Images/0_1%20(1)%20(1).jpeg
 
 ## 🚀 Development Roadmap & Funding Needs
 ### Phase 1: Working Prototype (Months 1-12)
