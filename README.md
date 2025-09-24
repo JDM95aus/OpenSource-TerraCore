@@ -7,6 +7,15 @@ visit our official website at opensourceterracore.org now live
 *Concept art depiction only, real models will vary massively
 
 > **Grow Your Own World**
+> 
+> ## 🚀 Join Our Development Team
+
+With **303+ developers already exploring our codebase** in the first 3 days, we're building a community. Here's how you can help:
+
+- **Review our Mk1 prototype designs** in `/designs/`
+- **Submit improvements** via Pull Requests
+- **Join our discussion** in GitHub Discussions
+- **Help with specific issues** labeled `good-first-issue`
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Unsolved Problems](https://img.shields.io/badge/Unsolved_Problems-3_open-red.svg)](https://github.com/JDM95aus/OpenSource-TerraCore/issues)
