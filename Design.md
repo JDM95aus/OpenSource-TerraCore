@@ -55,6 +55,7 @@ The TerraCore™ project needs: Mycologists, Engineers, Food Scientists, Develop
 **A**: Complete solar-powered automation from growth to final food product
 
 ---
-
+![Screenshot of Chrome](Images/Screenshot_20250923_233102_Chrome.jpg)
+![Screenshot of Chrome]()
 *Part of the TerraCore™ Project - Growing a resilient future, one unit at a time.*  
 *Last updated 23-SEP-2025*
