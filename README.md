@@ -23,7 +23,7 @@ With **303+ developers already exploring our codebase** in the first 3 days, we'
 
 **OpenSourceTerraCore™** is an open-source, solar-powered system that grows and synthesizes food from mushroom biomass. This project aims to decentralize food production and end dependency on industrial agriculture.
 
-**OpenSourceTerraCore™ is a trademark representing this specific open-source project. See our [Trademark Policy](TRADEMARK.md) for usage guidelines.**
+**OpenSourceTerraCore™ is a trademark representing this specific open-source project. See our Trademark Policy (TRADEMARK.md) for usage guidelines.**
 
 ---
 
