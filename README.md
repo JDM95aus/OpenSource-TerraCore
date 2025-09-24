@@ -3,7 +3,7 @@
 visit our official website at opensourceterracore.org now live
 
 
-Images/Gemini_Generated_Image_k03fwpk03fwpk03f.png
+![Screenshot of Chrome](Images/Gemini_Generated_Image_k03fwpk03fwpk03f.png)
 *Concept art depiction only, real models will vary massively
 
 > **Grow Your Own World**
