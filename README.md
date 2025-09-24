@@ -2,7 +2,7 @@
 # TerraCore™: The Open-Source Solar Food Synthesizer
 visit our official website at opensourceterracore.org now live
 
-![TerraCore Concept](Images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
+![TerraCore Concept](Images/Copy%20p/Gemini_Generated_Image_9xet0e9xet0e9xet.png)
 *Concept art depiction only, real models will vary massively
 
 > **Grow Your Own World**
