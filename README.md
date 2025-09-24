@@ -1,6 +1,6 @@
 ![Screenshot of Chrome](Images/Screenshot_20250923_233102_Chrome.jpg)
 # TerraCore™: The Open-Source Solar Food Synthesizer
-
+visit our official website at opensourceterracore.org now live
 
 ![TerraCore Concept](Images/b24d1372-c146-4539-9529-18976ea36e0a_0.png)
 *Concept art depiction only, real models will vary massively
