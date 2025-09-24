@@ -3,7 +3,7 @@
 visit our official website at opensourceterracore.org now live
 
 
-![TerraCore Concept](/OpenSource-TerraCore/Images%20Copy%20p/Gemini_Generated_Image_9xet0e9xet0e9xet.png) 
+Images/Gemini_Generated_Image_k03fwpk03fwpk03f.png
 *Concept art depiction only, real models will vary massively
 
 > **Grow Your Own World**
