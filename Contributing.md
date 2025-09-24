@@ -153,9 +153,4 @@ Peer-Validated Science:
 
 We're building on research from institutions studying rapid biomass production for applications ranging from emergency food relief to space colonization.
 
----
-
-I'd value your perspective on optimizing natural growth parameters. Your biological expertise could help ensure we're pursuing the most effective approaches within legitimate scientific boundaries.
-
-
-The goal is ambitious but achievable through the combination of existing biological capabilities and innovative system design.
+---.
