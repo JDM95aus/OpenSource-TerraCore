@@ -56,6 +56,7 @@ The TerraCore™ project needs: Mycologists, Engineers, Food Scientists, Develop
 
 ---
 ![Screenshot of Chrome](Images/Screenshot_20250923_233102_Chrome.jpg)
-![Screenshot of Chrome]()
+![Screenshot of Chrome](Images/Gemini_Generated_Image_athv4uathv4uathv.png)
+![Screenshot of Chrome](Images/Gemini_Generated_Image_9xet0e9xet0e9xet.png)
 *Part of the TerraCore™ Project - Growing a resilient future, one unit at a time.*  
 *Last updated 23-SEP-2025*
