@@ -21,9 +21,9 @@ With **303+ developers already exploring our codebase** in the first 3 days, we'
 [![Unsolved Problems](https://img.shields.io/badge/Unsolved_Problems-3_open-red.svg)](https://github.com/JDM95aus/OpenSource-TerraCore/issues)
 [![Join Discussion](https://img.shields.io/badge/Join_Discussion-Vision_2-blue.svg)](https://github.com/JDM95aus/OpenSource-TerraCore/discussions/2)
 
-**TerraCore™** is an open-source, solar-powered system that grows and synthesizes food from mushroom biomass. This project aims to decentralize food production and end dependency on industrial agriculture.
+**OpenSourceTerraCore™** is an open-source, solar-powered system that grows and synthesizes food from mushroom biomass. This project aims to decentralize food production and end dependency on industrial agriculture.
 
-**TerraCore™ is a trademark representing this specific open-source project. See our [Trademark Policy](TRADEMARK.md) for usage guidelines.**
+**OpenSourceTerraCore™ is a trademark representing this specific open-source project. See our [Trademark Policy](TRADEMARK.md) for usage guidelines.**
 
 ---
 
@@ -31,11 +31,11 @@ With **303+ developers already exploring our codebase** in the first 3 days, we'
 
 Imagine a future where every home, community, and village can produce its own nutritious, diverse food. Not through traditional farming, but with a quiet, solar-powered appliance that requires no land, minimal water, and creates zero waste.
 
-The **TerraCore™** system automates the cultivation of oyster mushrooms and transforms this fast-growing biomass into a wide range of familiar foods through a process of mechanical texturization and precise nutrient fortification. This is not just a new gadget; it's a pathway to resilience, sustainability, and freedom from centralized supply chains.
+The **OpenSourceTerraCore™** system automates the cultivation of oyster mushrooms and transforms this fast-growing biomass into a wide range of familiar foods through a process of mechanical texturization and precise nutrient fortification. This is not just a new gadget; it's a pathway to resilience, sustainability, and freedom from centralized supply chains.
 
-## 🚀 The TerraCore™ Project Line
+## 🚀 The OpenSourceTerraCore™ Project Line
 
-- **TerraCore Genesis Unit (Mk1)** - The current prototype: A proof-of-concept buildable with basic tools
+- **OpenSourceTerraCore Genesis Unit (Mk1)** - The current prototype: A proof-of-concept buildable with basic tools
 - **Future Versions** - More advanced, automated systems built upon the Genesis Unit's success
 
 ## 📄 License
