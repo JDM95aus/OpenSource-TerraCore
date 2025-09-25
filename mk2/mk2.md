@@ -1,5 +1,5 @@
 the vision
-![Mk2 TerraCrab Prototype](main/Images/your-exact-image-name.jpg)
+![Mk2 TerraCrab Prototype](Images/Gemini_Generated_Image_eb60f1eb60f1eb60 (1).png)
 
 # OpenSourceTerraCore Mk2: "The TerraCrab"
 
