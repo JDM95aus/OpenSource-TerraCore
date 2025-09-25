@@ -14,9 +14,6 @@ The Mk3 "TerraFountain" and the Mk2 "TerraCrab" are designed to be entirely co-d
 
 The impact of this integrated system, while currently a hypothesis, is based on a clear and urgent global need. According to UNICEF and the WHO, over **2.2 billion people** lack access to safely managed drinking water. This crisis is directly responsible for a cascade of preventable deaths and economic losses.
 
-* **Lives Saved:** Unsafe water and inadequate sanitation are linked to the transmission of diseases like cholera and typhoid, leading to an estimated **829,000 deaths each year**. Our system, by providing clean, decentralized, and self-sustaining water and food sources, has the potential to directly prevent these deaths. If we could deploy enough Mk2/Mk3 units to provide safe water to just a fraction of the affected population—say, 1%—it could save thousands of lives annually.
-* **Economic Impact:** The economic cost of this crisis is staggering. Globally, an estimated **$260 billion is lost annually** due to the lack of basic water and sanitation. This isn't just about healthcare costs; it's about lost productivity, time spent collecting water (disproportionately by women and girls), and a stagnant agricultural sector. By providing a decentralized, on-demand water and food source, we would create a foundation for economic growth in areas where none was possible before.
-
 ### **The Need for Funding: From Open-Source Dream to Global Reality**
 
 Our open-source model has been powerful for developing concepts and prototypes, but to turn these ideas into working, scalable models, we need funding. This is not about building a profitable company; it's about building a **global public utility**.
