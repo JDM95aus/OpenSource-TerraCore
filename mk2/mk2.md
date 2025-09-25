@@ -1,5 +1,5 @@
 the vision
-![Mk2 TerraCrab Prototype](/main/Images/your-exact-image-name.jpg)
+!(Mk2 TerraCrab Prototype)[main/Images/your-exact-image-name.jpg]
 
 # OpenSourceTerraCore Mk2: "The TerraCrab"
 
