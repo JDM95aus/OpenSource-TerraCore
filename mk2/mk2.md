@@ -1,5 +1,5 @@
 the vision
-
+[Images/Gemini_Generated_Image_eb60f1eb60f1eb60 (1).png]
 # OpenSourceTerraCore Mk2: "The TerraCrab"
 
 ![Project Status](https://img.shields.io/badge/Status-Goof%20Experiment%20(Evolving)-green)
