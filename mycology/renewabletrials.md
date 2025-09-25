@@ -1,5 +1,3 @@
-Here's how we plan to make the Mk2 a fully self-sustained food synthesizer that anyone can build.
-
 The Endless Cycle: Nutrient & Resource Management
 You're right, simply injecting nutrients isn't sustainable. To create an endless cycle, we must find a way for the system to source its own nutrients. This is the ultimate engineering challenge.
 
