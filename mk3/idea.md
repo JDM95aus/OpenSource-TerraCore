@@ -1,78 +1,106 @@
-### **Mk3: The TerraFountain - A Blueprint for a Self-Sustaining Water System**
+This new project is the Mk3 "AquaCrab". It integrates the lessons from the Mk2 (mobile robotics) and the Mk3 (water generation) into a single, compact, and highly autonomous unit.
 
-The Mk3 "TerraFountain" is our most ambitious project yet. It's not a machine you simply plug in; it's a living ecosystem designed to solve one of humanity's most pressing problems. This document outlines the conceptual blueprint for a functional prototype, maintaining the open-source and modular philosophy of the Mk2.
+Here is the new, fully integrated blueprint, materials list, and cost breakdown to match the image and description of the Mk3 "AquaCrab" prototype.
 
-The goal is to engineer a system that is fully integrated and self-sustaining, providing an endless supply of purified water using a groundbreaking fusion of mycology and engineering.
+Mk3: The AquaCrab - A Blueprint for a Self-Contained Ecosystem
+The AquaCrab is a fully integrated, mobile unit designed to autonomously navigate challenging terrains while generating its own food and water. It is a single, self-contained ecosystem that proves the fusion of mycology and robotics can be portable.
 
----
+1. General Blueprint & Orientation
+The AquaCrab's structure is a single, sealed, chassis-based system. The entire unit is built around a central, transparent Bio-Core, which serves as the hub for all biological and mechanical processes.
 
-### **1. General Blueprint & Orientation**
+Chassis & Mobility: A sealed, waterproof body made from a custom-fabricated plastic or aluminum frame. It uses four or six large, durable wheels designed to traverse soft ground and mud.
 
-The Mk3 TerraFountain is an inverted system, with its primary function occurring underground. The overall structure is a combination of subterranean chambers and a small surface-level intake tower.
+The Bio-Core: A clear, sealed, central pod that contains the water generation and food synthesis components. It has two distinct chambers:
 
-* **The Surface Component:** A low-profile, solar-panelled tower that houses the intake fans and the AI control unit. It's designed to be inconspicuous and resilient to desert environments.
-* **The Subterranean Component:** This is the heart of the system. It consists of a large, insulated chamber where the fungal network resides. Below this chamber is a collection reservoir and a final purification unit. This entire section is fully sealed and designed for long-term, low-maintenance operation.
+The Myco-Gen Chamber: The upper half, where hydrophilic fungi are grown for atmospheric water generation.
 
----
+The Myco-Synth Chamber: The lower half, where food synthesis takes place using the mushroom paste.
 
-### **2. Prototype Materials List & Estimated Costs**
+Sensory Hub: A centralized mast or hub on top of the unit that houses the primary AI cameras, sensors, and communication antennas.
 
-This list is for a small-scale, experimental prototype suitable for a backyard or educational setting. Costs are in Australian Dollars (AUD) and are estimates.
+2. Prototype Materials List & Estimated Costs
+This list is tailored for a mobile prototype. Costs are in Australian Dollars (AUD) and are rough estimates.
 
-#### **A. Subterranean Bio-Reactor Array**
-* **Structural Material:** Two large, food-grade plastic barrels or tanks (e.g., 200L) with sealed lids. One for the main chamber, the other for the reservoir.
-    * **Estimated Cost:** $100 - $200
-* **Lining Material:** A moisture-permeable but sealed geomembrane (e.g., a pond liner) to line the interior of the Bio-Reactor chamber.
-    * **Estimated Cost:** $50 - $100
-* **Mycelial Inoculation:** Spores or a small culture of a known hydrophilic fungi (research needed for specific strain).
-    * **Estimated Cost:** $50 - $150
-* **Substrate:** A sterile substrate for the fungi to grow on, likely a mix of sawdust and gypsum.
-    * **Estimated Cost:** $20 - $40
+A. Chassis & Mobility
+Chassis Material: Sheets of marine-grade plywood, HDPE plastic, or aluminum composite panel for a waterproof hull.
 
-#### **B. Atmospheric Intake & Condensation System**
-* **Intake Fans:** 2 x high-efficiency, solar-powered fans with ducting.
-    * **Estimated Cost:** $100 - $250
-* **Intake Pipes:** Insulated PVC or metal pipes to run from the surface fans down into the subterranean chamber.
-    * **Estimated Cost:** $40 - $80
-* **Air Filters:** Simple HEPA or mesh filters to prevent dust from entering the system.
-    * **Estimated Cost:** $20 - $30
-* **Geothermal Heat Exchanger:** A simple coil of buried copper tubing to pre-cool the intake air.
-    * **Estimated Cost:** $50 - $100
+Estimated Cost: $80 - $200
 
-#### **C. Myco-Harvesting & Purification System**
-* **Acoustic Emitters:** A set of 2-4 small, low-frequency sound emitters (piezoelectric transducers).
-    * **Function:** To vibrate the fungi and release water.
-    * **Estimated Cost:** $40 - $80
-* **Water Collection Tray:** A large, sloped, food-grade plastic tray to catch the released water and guide it to the reservoir.
-    * **Estimated Cost:** $20 - $40
-* **Purification Unit:** A small UV-C light sterilizer and a simple reverse osmosis filter.
-    * **Estimated Cost:** $150 - $300
-* **Water Pump:** A small, low-power submersible pump to move water to the final outlet.
-    * **Estimated Cost:** $20 - $50
+Wheels & Motors: 4-6 large, all-terrain robotic wheels with sealed hubs. High-torque, waterproof DC motors (e.g., 24V brushed or brushless motors) and sealed gearboxes.
 
-#### **D. AI & Power Management**
-* **Microcontroller:** An ESP32 or Raspberry Pi with Wi-Fi capability.
-    * **Function:** Manages sensors, fan speed, and harvesting cycles.
-    * **Estimated Cost:** $30 - $60
-* **Sensor Array:**
-    * **Humidity & Temperature Sensors:** Multiple sensors for both the intake and the subterranean chamber.
-    * **Water Level Sensor:** To monitor the level in the reservoir.
-    * **Estimated Cost:** $30 - $60
-* **Power System:** A small solar panel (e.g., 20-50W) with a charge controller and a Li-ion battery pack.
-    * **Estimated Cost:** $100 - $200
+Estimated Cost: $250 - $500
 
----
+Waterproofing: Silicone sealant, gaskets, and waterproof enclosures for electronics.
 
-### **Total Estimated Cost: $725 - $1,650 AUD**
+Estimated Cost: $30 - $60
 
----
+B. Bio-Core & Life Support
+Acrylic Tubing/Sheets: Clear, sealed acrylic for the Bio-Core chamber.
 
-### **Blueprint & Build Structure**
+Estimated Cost: $60 - $120
 
-1.  **Dig the Chamber:** Excavate the site for the subterranean chamber and reservoir. Line the hole with a waterproofing material (e.g., pond liner).
-2.  **Install the Bio-Reactor:** Place the main Bio-Reactor barrel and reservoir barrel in the chamber. Run the intake and output pipes.
-3.  **Inoculate the Fungi:** In a sterile environment, prepare the substrate and inoculate it with the hydrophilic fungi. Transfer the substrate into the Bio-Reactor barrel.
-4.  **Install Electronics:** Mount the microcontroller, sensors, and power management system. Run all the necessary wiring.
-5.  **Build the Intake System:** Construct the solar panel frame on the surface and mount the fans. Attach the intake pipes and run them down to the Bio-Reactor.
-6.  **Setup Harvesting & Purification:** Place the acoustic emitters inside the chamber. Install the collection tray and the purification unit. Connect the final output pipe to the surface.
-7.  **Seal and Activate:** Once all systems are in place, seal the chamber. Power on the unit and begin the first harvesting cycle.
+Fungal Supplies: Spore culture and substrate for both hydrophilic and food-synthesis fungi.
+
+Estimated Cost: $40 - $80
+
+Internal Fans: 2 x small, waterproof 5V fans for air circulation.
+
+Estimated Cost: $15 - $30
+
+Nutrient Injection System: A small, multi-channel peristaltic pump and a nutrient reservoir.
+
+Estimated Cost: $80 - $150
+
+Myco-Harvesting: Miniature piezoelectric emitters and a sloped collection tray inside the chamber.
+
+Estimated Cost: $40 - $80
+
+C. Electronics & Sensors
+Microcontroller: An industrial-grade microcontroller (e.g., ESP32 or Teensy with a robust casing).
+
+Estimated Cost: $40 - $80
+
+Sensor Array:
+
+Environmental: BME280 sensor for internal temp/humidity.
+
+Navigation: Ultrasonic distance sensors, an Inertial Measurement Unit (IMU) for orientation, and a waterproof camera for visual navigation.
+
+Moisture & Water: A moisture sensor for the substrate and a simple float sensor for the water reservoir.
+
+Estimated Cost: $100 - $200
+
+Power System: A high-capacity Li-ion or LiPo battery pack. A small, on-board solar panel to supplement the charge.
+
+Estimated Cost: $150 - $300
+
+Total Estimated Cost: $950 - $1,900 AUD
+Blueprint & Build Structure
+Chassis Assembly: Cut and fabricate the waterproof chassis. Install the motors and wheels, ensuring a tight seal to prevent water ingress.
+
+Bio-Core Construction: Build the transparent, dual-chamber Bio-Core. Install the internal fans, lights, and harvest tray.
+
+Electronics Integration: Mount the microcontroller and all sensors inside a waterproof enclosure within the chassis.
+
+Mycology & Life Support: In a sterile environment, prepare the substrates and inoculate the fungi in their respective chambers. Install the nutrient injection pump and tubing.
+
+Final Assembly & Sealing: Mount the Bio-Core onto the chassis. Route all wiring through waterproof glands. Attach the wheels and secure all hatches.
+
+First Deployment: Power on the unit. Calibrate the AI and sensors, and begin autonomous navigation and synthesis tests in a controlled, muddy environment.
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+2.5 Flash
+
+Gemini can make mistakes, so double-check it
