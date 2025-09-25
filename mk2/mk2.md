@@ -1,5 +1,5 @@
 the vision
-![Mk2 TerraCrab Prototype](Images/Gemini_Generated_Image_eb60f1eb60f1eb60(1).png)
+![Mk2 TerraCrab Prototype](https:/jdm95aus/opensourceterracore/main/Images/Gemini_Generated_Image_eb60f1eb60f1eb60(1).png)
 
 # OpenSourceTerraCore Mk2: "The TerraCrab"
 
@@ -38,12 +38,6 @@ This project is in its early conceptualization phase. Our current focus is on th
   - **Purpose:** To prove the feasibility of a walking, self-sustaining bioreactor.
   - **Key Goal:** Master the cultivation of the chosen oyster mushroom strain in a mobile environment.
 
-- **Mk3: The Harvester (Next Phase)**
-  - **Purpose:** To introduce a new model that can be sustained by the Mk2's fungal output.
-  - **Upgrades:** Focus on a refined food synthesis and storage system, with reduced on-board cultivation.
-
-- **Mk4 & Beyond: The Swarm (The Long-Term Vision)**
-  - **Purpose:** A decentralized fleet of specialized robots, each with a different purpose (e.g., resource gathering, repair), all sustained by the TerraCrab model.
 
 ## Contributing
 
