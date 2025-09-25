@@ -1,6 +1,6 @@
 the vision
 
-![Mk2 TerraCrab Prototype, a bio-integrated robotic food synthesizer](http://googleusercontent.com/image_generation_content/0
+![Mk2 TerraCrab Prototype, a bio-integrated robotic food synthesizer](http://googleusercontent.com/image_generation_content/)
 
 # OpenSourceTerraCore Mk2: "The TerraCrab"
 
