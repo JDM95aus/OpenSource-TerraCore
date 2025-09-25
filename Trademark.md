@@ -1,8 +1,8 @@
-# TerraCore™ Trademark Policy
+# OpenSourceTerraCore™ Trademark Policy
 
 ## 📜 Introduction
 
-The name **TerraCore™** and associated logos (collectively, the "TerraCore Marks") are trademarks used to identify the open-source solar food synthesis project and its associated goods, services, and community.
+The name **OpenSourceTerraCore™** and associated logos (collectively, the "OpenSourceTerraCore Marks") are trademarks used to identify the open-source solar food synthesis project and its associated goods, services, and community.
 
 This policy outlines how you may and may not use the TerraCore Marks. The goal is to protect the integrity of the project while encouraging community participation and adoption.
 
@@ -52,8 +52,8 @@ We're open to partnerships that align with our mission of decentralized, sustain
 
 ## 🌱 Community Guidelines
 
-When using the TerraCore name, please:
-- Always include the ™ symbol on first reference: **TerraCore™**
+When using the OpenSourceTerraCore name, please:
+- Always include the ™ symbol on first reference: **OpenSourceTerraCore™**
 - Clearly distinguish between official project resources and your own content
 - Link back to this repository when referencing the project
 - Follow the spirit of open-source collaboration
