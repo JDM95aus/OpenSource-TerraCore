@@ -18,6 +18,8 @@ Capital-as-a-Service: The FonzCred ecosystem, which tokenizes the contribution/i
 
 Your investment buys the defensible, proprietary lock-in over a free technology destined for ubiquitous global adoption.
 
+asking for a $20M investment for a 10% stake - full valuation given on request
+
 ## 👤 About the Founder
 **Joshua Dakin-Mandryk** - Independent developer with proven ability to:
 - Architect complex technical systems
