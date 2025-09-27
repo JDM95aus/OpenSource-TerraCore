@@ -5,28 +5,9 @@ The fundamental principle of our business model is an endlessly regenerating fue
 
 Water Extraction: The primary resource we'll target is water ice, which is abundant in asteroids, comets, and the polar regions of the Moon. Our MK8 spacecraft will be equipped with specialized drills and heating systems to extract and melt this ice.
 
-Onboard Electrolysis: Once the water is collected, it's transferred to an onboard processing unit where it undergoes electrolysis. This is a process that uses electricity to split water (
-
-H 
-2
+Onboard Electrolysis: Once the water is collected, it's transferred to an onboard processing unit where it undergoes electrolysis. This is a process that uses electricity to split water
 ​
- O
-) into its constituent elements: hydrogen (
-
-H 
-2
-​
- 
-) and oxygen (
-
-O 
-2
-​
- 
-).
-
-
-Licensed by Google
+into its constituent elements: hydrogen 
 Cryogenic Storage: The resulting hydrogen and oxygen gases are then supercooled and stored in cryogenic tanks. This is the propellant that powers our rockets.
 
 Power Generation: To power the electrolysis process and other systems, the MK8 will use high-efficiency solar panels and potentially a small, modular nuclear reactor for missions in low-light environments or deep space. The excess hydrogen and oxygen from the electrolysis can also be fed into a regenerative fuel cell to generate electricity, creating a closed-loop energy system. This cycle of generating fuel from water and using it to power the system is the key to our self-sufficiency.
@@ -63,17 +44,4 @@ Manufacturing of satellite components and space habitats directly in orbit.
 
 Construction of solar power satellites that can beam clean energy back to Earth.
 This is the long-term vision, where our company transitions from being a resource provider to a foundational infrastructure partner for the entire space industry, driving down costs and enabling humanity's expansion into the solar system. The MK8 is not just a tool for exploration; it is the genesis of a self-sustaining industrial complex in space.
-
-
-
-
-
-
-
-
-
-
-Tools
-
-2.5 Flash
 
