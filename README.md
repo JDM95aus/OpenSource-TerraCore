@@ -3,64 +3,51 @@
 visit our official website at opensourceterracore.org now live
 
 
-The Magic of Transformation: Customizing Your Food
-The secret to turning a mushroom into a burger, a fish, or a cake is a simple three-step process: neutralize, bind, and flavor. The mushroom itself is a blank, nutritional canvas, rich in protein and fiber. Its unique properties allow it to mimic the texture of meat, the flakiness of fish, or the sponge of a cake.
-
-Step 1: The Neutralization: After harvesting, you will partially dry the mushrooms and then grind them into an extremely fine powder using the hand-crank grinder. This process completely neutralizes the natural mushroom taste and smell, leaving a bland, high-protein flour.
-
-Step 2: The Binder: This is where you create the texture. The MK1.2 manual provides recipes using common, FREE ingredients:
-
-For a "Burger" or "Meatball": Use a handful of mashed, boiled potatoes (or any starchy vegetable) as a binder to give the food a dense, meaty consistency.
-
-For a "Fish": Use finely ground nuts or seeds (which can be foraged) and a small amount of oil to create a flaky, fibrous texture.
-
-For a "Cake" or "Bread": Use a fine grain flour (from foraged wild grains) and a natural sweetener from a local plant or fruit to create a soft, spongy texture.
-
-Step 3: The Flavoring: The manual provides simple recipes for creating flavors from natural sources.
-
-Burger Flavoring: Use foraged wild herbs (thyme, sage, rosemary), a pinch of salt (from filtered rainwater or a nearby salt deposit), and a little hot sauce from a cultivated chili plant.
-
-Fish Flavoring: A small amount of salt, a pinch of lemon juice from a local fruit, and a bit of wild onion or chives.
-
-Cake Flavoring: A natural sweetener (like honey from wild bees) and a bit of cinnamon from a nearby spice tree.
-
-You can create a nutritionally complete "burger" that tastes like beef, a "fish" that tastes like fish, and a "cake" that tastes like dessert, all from the same core mushroom powder. The food is not only free, but it is also significantly healthier and more sustainable than its conventional counterparts.
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License").
+Section 1 – Definitions f. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or otherwise, provided there is no payment of monetary compensation, is NonCommercial.
+g. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material without regard to time and place.
+Section 2 – Scope a. License grant. i. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to: (A) reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and (B) produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+Section 3 – License Conditions b. ShareAlike. In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply. i. The Adapter's License You apply must be a Creative Commons license with the same License Elements, this Version or later, or a BY-NC-SA Compatible License. ii. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply.
+Section 5 – Disclaimer of Warranties and Limitation of Liability a. Unless otherwise separately agreed by the Licensor, the Licensed Material is offered "as is" and "as available," and the Licensor makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or otherwise.
 
 
-![Screenshot of Chrome](Images/Gemini_Generated_Image_k03fwpk03fwpk03f.png)
-*Concept art depiction only, real models will vary massively
+THE BUILD:
+PROJECT OVERVIEW Originator/IP Holder: Joshua Roy Dakin Mandryk 
+(ABN: 80662917463)
+Final Asset Owner: Licensor (J.R Dakin-Mandryk)
+Deployment Goal: Verify scientific viability and collect baseline performance data (90-day test phase).
+Status: Design Finalized (Ready for Fabrication and Assembly)
+Estimated cost: $10,000 AUD
 
-> **Grow Your Own World**
-> 
-> ## 🚀 Join Our Development Team
-
-With **303+ developers already exploring our codebase** in the first 3 days, we're building a community. Here's how you can help:
-
-- **Review our Mk1 prototype designs** in `/designs/`
-- **Submit improvements** via Pull Requests
-- **Join our discussion** in GitHub Discussions
-- **Help with specific issues** labeled `good-first-issue`
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Unsolved Problems](https://img.shields.io/badge/Unsolved_Problems-3_open-red.svg)](https://github.com/JDM95aus/OpenSource-TerraCore/issues)
-[![Join Discussion](https://img.shields.io/badge/Join_Discussion-Vision_2-blue.svg)](https://github.com/JDM95aus/OpenSource-TerraCore/discussions/2)
-
-**OpenSourceTerraCore™** is an open-source, solar-powered system that grows and synthesizes food from mushroom biomass. This project aims to decentralize food production and end dependency on industrial agriculture.
-
-**OpenSourceTerraCore™ is a trademark representing this specific open-source project. See our Trademark Policy (TRADEMARK.md) for usage guidelines.**
-
----
-
-## 🌱 The Vision: A Food-Secure Future
-
-Imagine a future where every home, community, and village can produce its own nutritious, diverse food. Not through traditional farming, but with a quiet, solar-powered appliance that requires no land, minimal water, and creates zero waste.
-
-The **OpenSourceTerraCore™** system automates the cultivation of oyster mushrooms and transforms this fast-growing biomass into a wide range of familiar foods through a process of mechanical texturization and precise nutrient fortification. This is not just a new gadget; it's a pathway to resilience, sustainability, and freedom from centralized supply chains.
-
-## 🚀 The OpenSourceTerraCore™ Project Line
-
-- **OpenSourceTerraCore Genesis Unit (Mk1)** - The current prototype: A proof-of-concept buildable with basic tools
-- **Future Versions** - More advanced, automated systems built upon the Genesis Unit's success
+ SECTION 1: SYSTEM DEFINITION & DELIVERABLES
+The MK.II Terra-Crab must be built as a singular, unified system where the primary function is zero-waste thermal and electrical conversion. The successful completion of this SOW is defined by the following two deliverables:
+1.1. Final Physical Deliverable
+One (1) fully assembled, tested, and operational MK.II Terra-Crab prototype unit.
+The final asset must be delivered to the Licensor upon successful completion of the 90-day testing phase.
+1.2. Required Data Deliverable
+A complete log of performance data over a minimum 72-hour continuous test cycle.
+Verification of the Thermal Control Target (see Section 2.1).
+Verification of Net Electrical Output (2.5 kW sustained).
+Verification of Water Recapture Rate (minimum 90% efficiency).
+SECTION 2: CORE TECHNICAL SPECIFICATIONS
+The prototype must meet Industrial Grade requirements. Components are non-negotiable substitutes for existing, high-fidelity parts.
+2.1. Environmental Precision & Bio-Reactor (The Myco-Forge Core)
+Thermal Control: Must sustain a precise control of ±0.5∘C (Target range: 22∘C−28∘C).
+Implementation: Requires integration of a functional Peltier Array system, synchronized with the control loop.
+Atmosphere Monitoring: Requires integration of a research-grade NDIR CO2​ Sensor and solenoid-driven Fresh Air Exchange (FAE).
+Syngas / Lysis: Must integrate an Ultrasonic Transducer or a High-RPM Shear Mixer as the Molecular Editing Head.
+Function: Must achieve rapid Cell Lysis and Homogenization of the mushroom paste.
+2.2. Electronics, AI, and Sensing
+Processing Core: Must implement a dedicated Single Board Computer (SBC) (e.g., NVIDIA Jetson Nano or equivalent) capable of running a Neural Network model for autonomous function.
+FonzCorp Panel: Must feature the standardized multi-pin connector and support the required diagnostic input sequence (as per Term Sheet).
+Mycelial Sensing: Requires integration of a dense array of low-noise, Platinum Micro-electrodes and a dedicated signal conditioning circuit.
+Function: Essential for collecting complex fungal electrical data (the primary research objective).
+2.3. Mobility and Chassis
+Mobility System: Must be driven by 12×Brushless DC Motors (6-Leg Articulation), with integrated encoders for precise positioning.
+Energy Harvesting: Requires functional integration of Piezoelectric Film into all 12 leg joints.
+Function: Must prove the zero-point propulsion principle and supplemental power generation during locomotion.
+Material: The chassis must utilize Carbon-Fiber Reinforced Plastic or Lightweight Aluminum Alloy.
 
 ## 📄 License
 
