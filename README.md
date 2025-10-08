@@ -59,7 +59,7 @@ This project's technical content is licensed under **Creative Commons Attributio
 - 
 **Under the following terms:**
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
-- **NonCommercial** — You may not use the material for commercial purposes
+- **NonCommercial** — You may not use the material for commercial purposes (unless a duel licence gets imposed, in which case this licence will remain)
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
 *View the full license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
