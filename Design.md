@@ -10,7 +10,7 @@ Originator/IP Holder: Joshua Roy Dakin Mandryk (ABN: 80662917463)
 Final Asset Owner: Licensor (J.R.D. Mandryk)
 Deployment Goal: Verify scientific viability and collect baseline performance data (90-day test phase).
 Status: Design Finalized (Ready for Fabrication and Assembly)
-Funding: $10,000 AUD (Allocated via Licensee [Partner Name] per Term Sheet Clause 3.2)
+
 
 SECTION 1: SYSTEM DEFINITION & DELIVERABLES
 The MK.II Terra-Crab must be built as a singular, unified system where the primary function is zero-waste thermal and electrical conversion.
