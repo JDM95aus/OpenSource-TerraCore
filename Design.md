@@ -1,50 +1,68 @@
 # Technical Design: TerraCore™ Genesis Unit (Mk1)
 
-## 🎯 1.0 Abstract & Vision
-**TerraCore™** is an open-source, solar-powered hardware system that automates decentralized food production. The Genesis Unit (Mk1) grows oyster mushroom biomass and transforms it into diverse, nutritious foods through mechanical texturization and precision fortification.
+ Final Statement of Work (SOW): MK.II Terra-Crab
+TITLE: STATEMENT OF WORK (SOW) & TECHNICAL SPECIFICATION
+PROJECT: MK.II TERRA-CRAB: CLOSED-LOOP BIOMASS CHP SYSTEM
+PURPOSE: Final functional validation of the pre-commercial design for an Exclusive Licensing Option.
 
-## 🏗️ 2.0 System Architecture
-The TerraCore™ system follows a linear production pipeline where solar energy powers everything. Mushrooms grow in climate-controlled chambers, get harvested, then move to synthesis modules that transform the biomass into finished food. All controlled by an automated control system.
+PROJECT OVERVIEW
+Originator/IP Holder: Joshua Roy Dakin Mandryk (ABN: 80662917463)
+Final Asset Owner: Licensor (J.R.D. Mandryk)
+Deployment Goal: Verify scientific viability and collect baseline performance data (90-day test phase).
+Status: Design Finalized (Ready for Fabrication and Assembly)
+Funding: $10,000 AUD (Allocated via Licensee [Partner Name] per Term Sheet Clause 3.2)
 
-**TerraCore™ Production Flow:** Sun → Solar → Batteries → Growth → Harvest → Synthesis → Food
+SECTION 1: SYSTEM DEFINITION & DELIVERABLES
+The MK.II Terra-Crab must be built as a singular, unified system where the primary function is zero-waste thermal and electrical conversion.
 
-## ⚙️ 3.0 Core Modules
+Final Physical Deliverable: One (1) fully assembled, tested, and operational MK.II Terra-Crab prototype unit. This final asset must be delivered to the Licensor upon successful completion of the 90-day testing phase.
 
-### 🔋 3.1 Power & Energy Management
-- **Solar Array**: 400W scalable panels with smart charging
-- **Battery Bank**: LiFePO4 batteries for all-day operation  
-- **Power Management**: Optimizes energy use for continuous operation
+Required Data Deliverable: A complete log of performance data over a minimum 72-hour continuous test cycle. This log must verify the Thermal Control Target, Net Electrical Output, and Water Recapture Rate as specified in the technical brief.
 
-### 🌱 3.2 Growth Chamber
-- **Climate Control**: Automated temperature, humidity, air quality
-- **Sterile Environment**: HEPA filters, UV sterilization
-- **Automation**: Efficient harvesting and maintenance
-- **Continuous Cycle**: Always growing, always harvesting
+SECTION 2: CORE TECHNICAL SPECIFICATIONS
+The prototype must meet Industrial Grade requirements. Components are non-negotiable for achieving the required validation metrics.
 
-### 🍽️ 3.3 Synthesis Module
-- **Grinding**: Turns mushrooms into uniform paste
-- **Injection**: Adds precise nutrients, flavors, textures
-- **Forming**: Creates final food shapes and textures
-- **Cooking**: Finishes with searing, steaming, baking
+2.1. Environmental Precision & Bio-Reactor (The Myco-Forge Core)
+Thermal Control: Must sustain a precise control of ±0.5 
+∘
+ C (Target range: 22 
+∘
+ C−28 
+∘
+ C). Implementation requires a functional Peltier Array system integrated with the control loop.
 
-### 🧠 3.4 Control System
-- **Central Computer**: Coordinates all operations
-- **User Interface**: Simple controls and monitoring
-- **System Optimization**: Maintains optimal growing conditions
+Atmosphere Monitoring: Requires integration of a research-grade NDIR CO 
+2
+​
+  Sensor and solenoid-driven Fresh Air Exchange (FAE).
 
-## 🔄 4.0 From Biomass to Food
-1. Harvest mushrooms → 2. Grind to paste → 3. Add nutrients → 4. Set texture → 5. Cook and serve
+Syngas / Lysis: Must integrate an Ultrasonic Transducer or a High-RPM Shear Mixer as the Molecular Editing Head. Its primary function is to achieve rapid Cell Lysis and Homogenization of the mushroom paste.
 
-## 🚀 5.0 Development Roadmap
-**Now**: Building TerraCore™ Genesis Unit growth chamber prototype  
-**Next**: Developing synthesis system for the Genesis Unit  
-**Future**: Full integration and testing of complete TerraCore™ system
+2.2. Electronics, AI, and Sensing
+Processing Core: Must implement a dedicated Single Board Computer (SBC) (e.g., NVIDIA Jetson Nano or equivalent) capable of running a Neural Network model for autonomous function.
 
-## 👥 6.0 Call for Collaboration
-The TerraCore™ project needs: Mycologists, Engineers, Food Scientists, Developers  
-**Get Started**: Fork this repo, join discussions, help build the future of food
+FonzCorp Panel: Must feature the standardized multi-pin connector and support the required diagnostic input sequence (as per Term Sheet).
 
-## ❓ 7.0 FAQ
+Mycelial Sensing: Requires the integration of a dense array of low-noise, Platinum Micro-electrodes and a dedicated signal conditioning circuit. This is essential for collecting complex fungal electrical data (the primary research objective).
+
+2.3. Mobility and Chassis
+Mobility System: Must be driven by 12×Brushless DC Motors (6-Leg Articulation), with integrated encoders for precise positioning.
+
+Energy Harvesting: Requires the functional integration of Piezoelectric Film into all 12 leg joints. This must prove the zero-point propulsion principle and supplemental power generation during locomotion.
+
+Material: The chassis must utilize Carbon-Fiber Reinforced Plastic or Lightweight Aluminum Alloy (no 3D-printed plastic components).
+
+SECTION 3: PROJECT MANAGEMENT PROTOCOL (Licensor Oversight)
+The Licensor (J.R.D. Mandryk) retains the right of IP consultation and final approval but will not participate in assembly or labor.
+
+Milestone Reporting Requirements: Weekly status updates are mandatory, submitted via secured email. Content must include time-stamped photo/video documentation of build progress, raw system logs detailing component integration, and system log data verifying baseline metrics achieved.
+
+Communication Protocol (IP Consultation): The Licensor is available only for technical clarification on the provided MK.II design and blueprints. All technical questions and IP consultation requests must be initiated via email only. No unsolicited phone calls, video conferences, or unscheduled meetings are permitted with the Licensor.
+
+Project Completion & Final Acceptance: Successful completion of this SOW requires the Licensor's final confirmation and sign-off. Required verification metrics are: Thermal Control Target (±0.5 
+∘
+ C precision) and Net Electrical Output (2.5 kW sustained).## ❓ 7.0 FAQ
+ 
 **Q**: Is TerraCore™ just a mushroom grower?
 **A**: No - it transforms biomass into different foods through synthesis
 
