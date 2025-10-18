@@ -6,7 +6,7 @@ We are developing open-source blueprints for decentralized, zero-waste physical 
 
 ## Current Status: Advanced R&D Phase
 
-Treat this as serious research and development, not a completed solution. While designs are engineered to function, this remains experimental.
+Treat this as serious research and development, not a completed solution. While designs are engineered to function, this remains to be tested in real world application.
 
 ## The Three-Tier Development Framework
 
