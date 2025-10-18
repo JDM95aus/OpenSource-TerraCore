@@ -1,4 +1,4 @@
-# Project Terracore: mk1 mycellium starter kit
+# Project Terracore: mk1 oyster mushroom starter kit
 
 ## The Vision: Food Security for Everyone
 The Mk1 is designed to be built by anyone, anywhere, with minimal tools and budget. This is the grassroots foundation of the Terracore project - proving that resilient food technology doesn't require fancy labs or big budgets.
