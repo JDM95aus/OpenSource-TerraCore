@@ -1,93 +1,65 @@
-🍄 MK.I: The Myco-Forge (Molecular Food Synthesizer) Blueprint
+# Project Terracore: Mk1 "Backyard Builder" Prototype
 
-This is the re-engineered blueprint for a sub-\$1,000, self-sustaining molecular food synthesizer prototype, adhering to all 
-specifications and constraints.
+## The Vision: Food Security for Everyone
+The Mk1 is designed to be built by anyone, anywhere, with minimal tools and budget. This is the grassroots foundation of the Terracore project - proving that resilient food technology doesn't require fancy labs or big budgets.
 
+## Total Cost: Under $150 USD
+Yes, you read that right. Everything here can be sourced from local hardware stores, online marketplaces, or even repurposed from household items.
 
-1. 🎯 Project Mission and Scope
+## Core Components & Sourcing
 
-Objective: To design, build, and test a self-sustaining Myco-Forge capable of molecularly editing a liquid
-mushroom base into any desired base possible in texture, flavors, nutrients, including fats, oils, proteins,
-and carbohydrates.
-Viability Constraint: The design must be technically viable and buildable for under \$1,000 USD using modified,
-accessible components.
-Global Mission: This is a vital think-tank experiment with a global mission of good, aimed at saving the world
-from the inevitable depletion of resources by proving localized, closed-loop food systems.
+### 1. Thermal Chamber & Structure ($35-50)
+- Insulated Box: Used styrofoam cooler or cardboard box with bubble wrap insulation
+- Heat Source: 25W incandescent light bulb or reptile heating cable ($5-15)
+- Temperature Control: Simple thermostat from pet supply store ($8-12)
+- Container: 5-gallon food-grade bucket with lid ($3-5)
 
+### 2. Basic Environmental Control ($25-40)
+- Humidity: Small USB-powered humidifier or manual spray bottle ($5-15)
+- Air Exchange: Computer fan from old PC or 5V USB fan ($2-5)
+- Monitoring: Analog thermometer/hygrometer from hardware store ($3-5)
 
-Crafting a Sustainable Legacy. Together, We Power Tomorrow. 💡
+### 3. Simple Deposition System ($15-25)
+- Manual Injection: Large medical syringe or condiment bottle ($2-5)
+- Mixing: Kitchen blender or jar with shaking ($0-5)
+- Measurement: Kitchen measuring cups and spoons ($0-5)
 
-2. 💰 Budget Breakdown (Max \$1,000 USD)
+### 4. Biological Materials ($20-30)
+- Mycelium: Oyster mushroom grow kit or spore syringe ($10-20)
+- Substrate: Straw, coffee grounds, or pasteurized sawdust ($5-10)
+- Nutrients: Molasses or corn syrup from grocery store ($2-5)
 
-The FonzCorp Control Panel (Fixed):\$300.00
-Purpose: Central brain, UI/OS, standardized interface for all future prototypes.
+### 5. Power & Control ($15-25)
+- Power: USB power bank or old phone charger ($5-15)
+- Timer: Simple outlet timer for light/fan cycles ($5-10)
+- Wiring: Basic electrical tape and extension cord ($2-5)
 
-Modified 3D Printer Chassis:\$150.00
-Purpose: Provides the precise dispensing gantry and chassis for the molecular print head.
-Bio-Reactor/Cultivation Tank:\$75.00
-Purpose: Heated, light-tight vessel for liquid mycelium growth.
-Molecular Editing Head & Mixer:\$100.00
-Purpose: Ultrasonic/Shear mixer for cell breakdown and emulsification.
-Nutrient/Flavor Cartridge System:\$150.00
-Purpose: Initial supply for 6 essential additive reservoirs (fats, oils, flavors, etc.).
-Sensors, Pumps, & Tubing:\$125.00
-Purpose: Critical feedback loop components (pH, Temp, Peristaltic Pump).
-Budget Total (Maximum):\$900.00 - \$1,000.00 USD
+## Build Philosophy
 
-3. 🧠 The FonzCorp Control Panel: Standardization (\$300)
+### No Special Tools Required
+- Basic screwdriver set
+- Box cutter or utility knife
+- Tape (duct tape, electrical tape)
+- Scissors
+- Marker for measurements
 
-Core Hardware: Custom PCB centered around a low-cost, high-performance microcontroller (e.g., ESP32 or equivalent).
-Interconnectivity: Features a standardized, keyed industrial multi-pin connector (e.g., M12 or similar) for power, high-speed data (I2C/SPI), and emergency safety protocols. This ensures it **interconnects with all future FonzCorp machine prototypes.**
-User Interface (UI): Includes a 7-inch LCD touchscreen for recipe creation and real-time process visualization.
-System Diagnostics/Input: Integrates the required custom keyboard layout for configuration and diagnostic access:
+### Repurposing First
+Every component can be found secondhand, recycled, or repurposed. The goal is zero barriers to entry.
 
-4. 📝 Detailed Build & Function Guide
+## What It Proves
 
-Step 1: Bio-Reactor Assembly (The Self-Sustaining Base)
-Vessel: Use an opaque, sealed 5-gallon food-grade container to prevent light-induced contamination.
-Inoculation: Introduce a fast-growing, easily processable liquid mycelium strain (e.g., Pleurotus ostreatus or similar). 
-This serves as the core resource biomass (protein/carb source).
-Environmental Control: Install the submersible heater and a magnetic stirrer/air stone, both connected to and regulated 
-by the FonzCorp Control Panel via temperature and pH sensors.
-Self-Sustaining Loop: The system is self-sustaining by continuously growing the mycelium using minimal sugar/water 
-solution and generating biomass that is consumed without destroying the entire culture.
+This ultra-low-cost version demonstrates that the core Terracore principles work without complex technology:
+- Mycelium can be triggered to rapid growth with simple nutrient injection
+- Basic thermal management enables food production in variable environments
+- The system can be built and operated by anyone, anywhere
 
-Step 2: Molecular Editing and Dispensing Gantry
-Dispensing Chassis: Mount the entire assembly onto the gantry of the modified 3D printer for precise X/Y/Z positioning.
-Material Transport: A dedicated Peristaltic Pump (controlled by the Panel) draws the mycelium slurry from the reactor 
-into the Editing Chamber.
-Mixing Chamber: A small, sealed cavity where all components meet. It features a high-frequency ultrasonic transducer or 
-high-RPM shear blade to achieve:
-Cell Lysis: Rapidly breaking down mycelium cell walls.
-Emulsification: Thoroughly blending the broken-down cells with concentrated additives to a homogeneous, liquid state.
+## Success Metrics for Mk1
+- Produces edible mushrooms within 2-3 weeks
+- Maintains 70-80% humidity with daily attention
+- Operates on less than $1/week electricity
+- Can be built in one afternoon with local materials
 
-Step 3: Nutrient Profile Customization
-Additive Storage: Use six small, dedicated Luer-lock syringes or industrial reservoirs to hold concentrated flavor and 
-nutrient bases.
-Example Additives: High-purity lipid solution, specific amino acid isolates, concentrated flavor compounds, mineral 
-suspension, complex starch solution.
-Precision Injection: Small, low-flow Peristaltic Pumps (one per reservoir) are used to inject micro-volumes of
-additives into the Editing Chamber based on the recipe selected on the Control Panel.
-Molecular Editing:** The ratio and combination of these concentrates allow the system to molecularly edit the
-simple mushroom base into any required profile (e.g., high-fat 'meat substitute' or low-carb 'sweet pudding').
+## Why This Matters
+The Mk1 isn't just a prototype - it's a proof that food sovereignty can start in your backyard, your apartment, or your community center. No patents, no corporate control, just people feeding people.
 
-Step 4: Output and Texture
-Final Output: The finished food is dispensed through a wide-bore nozzle.
-Texture Detail: Texture is controlled by two primary factors, managed by the Panel:
-Ultrasonic Intensity/Duration: Dictates the degree of cell wall breakdown (from smooth liquid to a fine paste).
-Additive Profile: The concentration of emulsifiers, proteins, and starches (e.g., Xanthan gum, used for thickening) added from the cartridges.
-
-5. 💰 Funding & Next Steps
-
-Financial Reality: Do not get your hopes up too high regarding immediate large-scale funding; this is a pure 
-R\&D push for now. We need the proof of concept.
-The Reward: The knowledge that your work will be used to save the world from inevitable resource scarcity is the 
-primary incentive.
-Contribution Legacy: Your names will be locked for the entire period of OpensourceTerraCore.org's existence** as 
-essential founders of this utility.
-Hands-On Assistance:** For more hands-on advice and assistance with building your prototype (sourcing specific
-components, advanced schematics, grant-match support), there is a service to help you by contacting us directly.
-
-Slogan (Bottom):Code the Blueprint. Build the Future. One Commit at a Time. 🌐
-
-Thank you all for sharing the vision.
+Build it. Share it. Improve it. This is how we change the system from the ground up.
