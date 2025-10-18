@@ -2,7 +2,7 @@ TerraCore: Open-Source Solar Food Synthesizer
 
 Official Website: https://opensourceterracore.org
 
-![TerraCore System](Images/0_1_(1)_(1).jpeg)
+![TerraCore System](Images/0_1 (1) (1).jpeg)
 
 Project Overview
 TerraCore is an open-source, solar-powered food synthesis system that produces edible mushroom biomass in minutes using triggered mycelium growth. The technology enables rapid food production for disaster response, remote locations, and sustainable agriculture.
