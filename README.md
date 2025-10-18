@@ -45,4 +45,4 @@ Commercial licensing information
 Contributors
 moneyish69 - Sensor logging system foundation
 
-This is a living project. Last updated October 2024.
+This is a living project. Last updated October 2025.
