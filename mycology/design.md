@@ -13,7 +13,7 @@ Result: Pins form in hours, not days. Full-sized mushrooms in 6-12 hours.
 
 Integrating the TerraCore Thermal Core Principle
 
-The commercial MycoForge can use a simplified, consumer-safe version of your heat regulation system.
+The commercial MycoForge can use a simplified, consumer-safe version of our heat regulation system.
 
 For the Commercial Product:
 
