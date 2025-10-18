@@ -6,7 +6,7 @@ We are developing open-source blueprints for decentralized, zero-waste physical 
 
 ## Current Status: Advanced R&D Phase
 
-Treat this as serious research and development, not a completed solution. While designs are engineered to function, this remains experimental. Do not let it distract from primary employment or projects.
+Treat this as serious research and development, not a completed solution. While designs are engineered to function, this remains experimental.
 
 ## The Three-Tier Development Framework
 
@@ -24,18 +24,10 @@ Function: Digital-physical hybrid system and supply-chain backbone
 Capabilities: Contribution tokenization, transparent resource tracking
 Development Focus: Smart contract security, verifiable contribution mechanisms
 
-Development Funding Requirements:
-- Minimum Viable Product: $10,000 - $25,000 USD
-- Full Network Deployment: $50,000 - $100,000 USD
-
 ### MK.III: TerraNet AI Optimization Layer
 Function: Proprietary SaaS for network optimization and security
 Capabilities: Predictive maintenance, efficiency optimization, compliance
 Development Focus: Machine learning models, edge computing, security protocols
-
-Development Funding Requirements:
-- Alpha Platform Build: $40,000 - $75,000 USD
-- Full Production System: $120,000 - $200,000 USD
 
 ## Permanent Contribution Legacy
 
