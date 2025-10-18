@@ -1,6 +1,4 @@
 TerraCore: Open-Source Solar Food Synthesizer
-
-Official Project Repository: https://github.com/JDM95aus/OpenSource-TerraCore
 Live Website: https://opensourceterracore.org
 
 Project Overview
