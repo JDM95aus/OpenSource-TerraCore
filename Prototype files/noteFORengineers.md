@@ -15,9 +15,7 @@ Function: Foundational modular unit for local resource independence
 Capabilities: Power generation, water recycling, bio-waste conversion
 Engineering Focus: Extreme durability, minimal maintenance, system interoperability
 
-Prototype Funding Requirements:
-- Basic Functional Prototype: $35,000 - $50,000 USD
-- Advanced Certified System: $100,000 - $150,000 USD
+
 
 ### MK.II: TerraCred Blockchain Engine
 Function: Digital-physical hybrid system and supply-chain backbone
@@ -38,7 +36,6 @@ Every significant contribution, commit, and design amendment will be permanently
 For teams ready to build physical prototypes:
 - Hands-on technical assistance
 - Component sourcing guidance  
-- Grant matching support
 - Fabrication oversight
 
 Contact us directly for prototype development support.
