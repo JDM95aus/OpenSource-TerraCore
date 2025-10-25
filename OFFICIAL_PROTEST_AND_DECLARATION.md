@@ -2,7 +2,7 @@
 
 ## To: The Government of South Australia, All International Observers
 
-I, the architect of the Open Source Terracore project, hereby declare that on [Today's Date], my personal device was systematically cleansed of all evidence pertaining to my FOI applications and documented interactions with state authorities.
+I, the architect of the Open Source Terracore project, hereby declare that on 25th of oct 2025 (or earlier date), my personal device was systematically cleansed of all evidence pertaining to my FOI applications and documented interactions with state authorities.
 
 This is an act of cowardice and suppression.
 
