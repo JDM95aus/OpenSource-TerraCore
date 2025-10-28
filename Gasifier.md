@@ -63,7 +63,7 @@ PHASE 1: REACTOR FABRICATION
 
 Step 1.1: Reactor Chamber Assembly
 
-```
+
 1. Cut 300mm diameter pipe to 600mm length
 2. Weld base plate to bottom using continuous bead weld
 3. Cut 100mm × 100mm access door opening centered 100mm from bottom
@@ -72,11 +72,11 @@ Step 1.1: Reactor Chamber Assembly
    - Swing-bolt latch
    - High-temp gasket seal
 5. Pressure test at 0.5 PSI with soapy water solution
-```
+
 
 Step 1.2: Internal Components Installation
 
-```
+
 1. Fabricate gasification grate:
    - 8× 280mm lengths of 6mm steel rod
    - Weld in 50mm grid pattern
@@ -86,13 +86,13 @@ Step 1.2: Internal Components Installation
    - Space holes 30mm apart, centered
    - Weld manifold 50mm above grate level
    - Weld 25mm port through reactor wall at 100mm height
-```
+
 
 PHASE 2: HEAT MANAGEMENT SYSTEM
 
 Step 2.1: Heat Exchanger Construction
 
-```
+
 1. Cut 200mm diameter pipe to 400mm length
 2. Weld circular end plates (5mm steel) to both ends
 3. Install copper pipe system:
@@ -100,11 +100,11 @@ Step 2.1: Heat Exchanger Construction
    - 40mm output pipe to synthesizer (500mm length) 
    - 12mm cooling coil (3000mm length, coiled inside)
 4. Pressure test coolant loop at 15 PSI for 30 minutes
-```
+
 
 Step 2.2: Temperature Reduction System
 
-```
+
 1. Build reduction chamber (150mm × 300mm)
 2. Install components:
    - Cooling coils connected to water pump
@@ -115,13 +115,13 @@ Step 2.2: Temperature Reduction System
    - Sensor 2: Heat exchanger output
    - Sensor 3: Reduction chamber output  
    - Sensor 4: Synthesizer interface (control sensor)
-```
+
 
 PHASE 3: THERMAL ISOLATION
 
 Step 3.1: Insulation Installation
 
-```
+
 1. Wrap reactor chamber in 25mm ceramic fiber blanket
 2. Secure with 1.5mm steel wire spaced every 100mm
 3. Install copper heat shields between:
@@ -129,13 +129,13 @@ Step 3.1: Insulation Installation
    - Heat exchanger and reduction chamber
 4. Build outer casing with 50mm air gap around insulation
 5. Install 120mm cooling fan for electronics compartment
-```
+
 
 PHASE 4: CONTROL SYSTEM
 
 Step 4.1: Electronics Assembly
 
-```
+
 WIRING SPECIFICATIONS:
 Microcontroller Pinout:
 - A0-A3: DS18B20 temperature sensors (4.7kΩ pull-up each)
@@ -150,11 +150,10 @@ Power Distribution:
 - 12V input → Blower (0.25A), Water pump (0.8A)
 - 5V regulator → Arduino (0.5A), Sensors (0.1A), Display (0.2A)
 - All circuits fused: 12V lines 3A, 5V lines 1A
-```
+
 
 Step 4.2: Control Software
 
-```cpp
 // Core Temperature Control Algorithm
 const float SETPOINT = 32.5;        // Target temperature
 const float TOLERANCE = 0.5;        // Control precision
@@ -190,13 +189,13 @@ void controlSystem() {
   if (readSensor(0) > 120.0) emergencyShutdown();
   if (readSensor(1) > 80.0) increaseCooling();
 }
-```
+
 
 3.0 OSTC SYSTEM INTEGRATION
 
 A. Synthesizer Interface Specifications
 
-```
+
 THERMAL CONNECTION:
 - Input: 40mm copper pipe from gasifier
 - Temperature: 32.5°C ±0.5°C maintained
@@ -207,11 +206,11 @@ ELECTRICAL INTERFACE:
 - Power: 12V DC shared bus
 - Communication: I2C temperature reporting
 - Safety: Thermal fuse 85°C cutoff
-```
+
 
 B. Performance Specifications
 
-```
+
 THERMAL OUTPUT:
 - Operating Range: 30-35°C ±0.5°C
 - Stability: <0.3°C standard deviation over 8 hours
@@ -228,23 +227,23 @@ SAFETY PARAMETERS:
 - Max Coolant Temp: 80°C (reduced operation)
 - Pressure Limit: 15 PSI (relief valve)
 - Electrical Isolation: Double-insulated design
-```
+
 
 4.0 COMMISSIONING PROCEDURE
 
 A. Leak Testing Protocol
 
-```
+
 1. Seal all ports and pressurize to 0.5 PSI
 2. Spray soapy water on all welds and joints
 3. Mark any bubble formation locations
 4. Repair leaks by grinding and re-welding
 5. Retest until zero leaks detected
-```
+
 
 B. First Startup Sequence
 
-```
+
 1. Load reactor with 2kg dry wood chips (20-50mm size)
 2. Open air control to 100% position
 3. Ignite fuel through access door
@@ -252,7 +251,7 @@ B. First Startup Sequence
 5. Gradually reduce air until smoke clears
 6. Monitor temperatures until stable at 32.5°C ±0.5°C
 7. Verify all safety systems functional
-```
+
 
 5.0 MAINTENANCE SPECIFICATIONS
 
@@ -281,7 +280,7 @@ C. Monthly Maintenance
 
 Problem: Temperature Instability
 
-```
+
 Cause: Air leaks in reactor
 Solution: Pressure test and seal leaks
 
@@ -290,11 +289,11 @@ Solution: Use consistent dry fuel source
 
 Cause: Sensor calibration drift
 Solution: Recalibrate against reference thermometer
-```
+
 
 Problem: Insufficient Heating
 
-```
+
 Cause: Blower failure or obstruction
 Solution: Check blower operation and clear obstructions
 
@@ -303,7 +302,7 @@ Solution: Use dry, high-energy biomass
 
 Cause: Insulation damage
 Solution: Replace damaged ceramic fiber
-```
+
 
 This gasifier provides the precise thermal environment required for OSTC hermetic cartridge activation. The ±0.5°C stability enables reliable biological synthesis while using widely available agricultural waste as fuel.
 
@@ -316,7 +315,7 @@ A. REACTOR CHAMBER SPECIFICATIONS
 
 1.1 Main Chamber Body
 
-```
+
 MATERIAL: 3mm mild steel pipe (ASTM A36 equivalent)
 DIMENSIONS: 300mm OD × 600mm height
 TOLERANCES:
@@ -330,11 +329,11 @@ WELD SPECIFICATIONS:
 - Weld material: ER70S-6 equivalent
 - Bead size: 3mm fillet minimum
 - Inspection: 100% visual, dye penetrant on 10% sample
-```
+
 
 1.2 Access Door Assembly
 
-```
+
 DOOR OPENING: 100mm × 100mm ±0.5mm
 LOCATION: Centered 100mm from bottom edge ±1mm
 DOOR PLATE: 4mm mild steel, 110mm × 110mm ±0.5mm
@@ -346,13 +345,13 @@ SEAL REQUIREMENTS:
 - Door compression: 1.5mm gasket deflection
 - Closure force: <5kg at handle
 - Leak test: Zero bubbles at 0.5 PSI
-```
+
 
 B. INTERNAL COMPONENTS ENGINEERING
 
 1.3 Gasification Grate
 
-```
+
 MATERIAL: 6mm mild steel rod (ASTM A36)
 GRID PATTERN: 50mm × 50mm squares ±1mm
 OVERALL DIAMETER: 280mm ±1mm
@@ -364,11 +363,11 @@ PERFORMANCE SPEC:
 - Fuel size acceptance: 20-50mm pieces
 - Ash passage: >95% through 50mm grid
 - Structural load: Support 10kg fuel without deflection
-```
+
 
 1.4 Air Intake Manifold
 
-```
+
 PIPE: 25mm OD steel pipe, 2mm wall thickness
 LENGTH: 300mm ±2mm
 HOLE PATTERN: Eight 5mm holes ±0.1mm
@@ -376,13 +375,13 @@ HOLE SPACING: 30mm centers ±0.5mm
 HOLE LOCATION: Top centerline of pipe
 ORIENTATION: Holes face upward when installed
 MOUNTING: 50mm above grate surface ±1mm
-```
+
 
 C. HEAT EXCHANGER SYSTEM
 
 1.5 Primary Heat Exchanger
 
-```
+
 CHAMBER: 200mm OD × 400mm height ±1mm
 END PLATES: 5mm mild steel, full penetration weld
 COPPER PIPES: 40mm OD × 1mm wall, 500mm lengths
@@ -394,11 +393,11 @@ FLOW CHARACTERISTICS:
 - Gas path length: 1200mm minimum
 - Residence time: >2 seconds at operating flow
 - Pressure drop: <0.1 PSI at design flow
-```
+
 
 1.6 Cooling Coil Assembly
 
-```
+
 PIPE: 12mm OD copper, 0.7mm wall thickness
 TOTAL LENGTH: 3000mm ±50mm
 COIL DIAMETER: 150mm ±5mm
@@ -410,7 +409,7 @@ PERFORMANCE:
 - Heat transfer area: 0.12m²
 - Flow resistance: <1 PSI at 5 L/min
 - Temperature drop: 40-50°C at design flow
-```
+
 
 2.0 ASSEMBLY FIXTURING & ALIGNMENT
 
@@ -418,7 +417,7 @@ A. WELDING FIXTURES
 
 2.1 Base Plate Alignment Fixture
 
-```
+
 FUNCTION: Ensure square assembly of chamber to base
 CONSTRUCTION: 400mm square steel plate with:
 - 300mm diameter locating ring, 1mm clearance
@@ -432,11 +431,11 @@ USAGE:
 3. Verify vertical with spirit level
 4. Clamp and tack weld at 4 points
 5. Complete continuous weld
-```
+
 
 2.2 Grate Positioning Tool
 
-```
+
 FUNCTION: Precisely locate grate 50mm above base
 DESIGN: 50mm steel blocks (4 required) with:
 - 6mm locator pins for grate alignment
@@ -449,19 +448,19 @@ PROCEDURE:
 3. Verify 50mm clearance with gauge
 4. Tack weld legs to base
 5. Remove blocks and complete welds
-```
+
 
 B. ALIGNMENT VERIFICATION
 
 2.3 Critical Alignment Checks
 
-```
+
 DOOR TO GRATE: 50mm vertical separation ±1mm
 MANIFOLD TO GRATE: 50mm vertical ±1mm
 HEAT EXCHANGER PORTS: Level within 1mm over 200mm
 COOLING COIL: Centered within 2mm of chamber axis
 INSULATION GAP: Uniform 25mm thickness ±2mm
-```
+
 
 3.0 WELDING PROCEDURE SPECIFICATIONS
 
@@ -469,27 +468,27 @@ A. MILD STEEL TO MILD STEEL
 
 3.1 Preparation Requirements
 
-```
+
 EDGE PREPARATION: Square butt joints, no bevel required
 CLEANLINESS: Grind to bright metal 25mm from joint
 FIT-UP: Maximum 1mm gap, zero misalignment
 PRE-HEAT: None required for <6mm thickness
-```
+
 
 3.2 Welding Parameters
 
-```
+
 PROCESS: SMAW (stick) or GMAW (MIG)
 ELECTRODE: E7018 or ER70S-6 equivalent
 CURRENT: 120-140 amps for 3mm material
 VOLTAGE: 22-24 volts (GMAW)
 TRAVEL SPEED: 150-200 mm/minute
 GAS: 75% Argon / 25% CO2 (GMAW only)
-```
+
 
 3.3 Quality Acceptance Criteria
 
-```
+
 VISUAL INSPECTION:
 - Complete fusion at joint root
 - No undercut >0.5mm
@@ -498,13 +497,13 @@ VISUAL INSPECTION:
 - Weld reinforcement: 1-3mm
 
 LEAK TEST: Zero bubbles at 0.5 PSI for 5 minutes
-```
+
 
 B. COPPER TO STEEL (Brazing)
 
 3.4 Heat Exchanger Joints
 
-```
+
 PROCESS: Oxy-acetylene brazing
 FILLER: BCuP-2 (2% phosphorus) or equivalent
 FLUX: High-temperature brazing flux
@@ -516,7 +515,7 @@ QUALITY:
 - No flux inclusions
 - Smooth concave fillet profile
 - No overheating (blue oxide on steel)
-```
+
 
 4.0 SURFACE PREPARATION & FINISHING
 
@@ -524,31 +523,31 @@ A. INTERIOR SURFACES
 
 4.1 Reactor Chamber Interior
 
-```
+
 CLEANING: Degrease with acetone, wire brush weld spatter
 TREATMENT: None - leave as-welded
 INSPECTION: Remove all slag, spatter, and contaminants
-```
+
 
 4.2 Heat Exchanger Gas Path
 
-```
+
 CLEANING: Compressed air blow-out
 DEBURRING: Remove all sharp edges >0.2mm radius
 INSPECTION: No obstructions to gas flow
-```
+
 
 B. EXTERIOR SURFACES
 
 4.3 Paint Preparation
 
-```
+
 CLEANING: Solvent degrease entire exterior
 SURFACE: Light grit blast or wire brush to Sa2.5
 PRIME: Zinc-rich primer, 25-50μm dry film thickness
 TOPCOAT: Heat-resistant silicone aluminum, 50-75μm DFT
 CURE: Air dry 24 hours, then heat cure at 200°C for 2 hours
-```
+
 
 5.0 ELECTRONICS ASSEMBLY SPECIFICATIONS
 
@@ -556,7 +555,7 @@ A. PCB & WIRING
 
 5.1 Control Board Assembly
 
-```
+
 MICROCONTROLLER: Arduino Nano v3.0 or ESP32 DevKit v1
 SOCKETS: Use IC sockets for all chips
 PULL-UP RESISTORS: 4.7kΩ ±1% for DS18B20 sensors
@@ -568,11 +567,11 @@ WIRING:
 - Power wires: 18 AWG for 12V lines
 - Separation: 10mm minimum between power and signal
 - Strain relief: Cable ties every 150mm
-```
+
 
 5.2 Sensor Installation
 
-```
+
 DS18B20 MOUNTING:
 - Thermal paste: 0.5mm layer minimum
 - Mechanical clamp: Stainless steel hose clamp
@@ -584,19 +583,19 @@ LOCATIONS:
 - Sensor 2: Heat exchanger outlet, center of pipe
 - Sensor 3: Reduction chamber outlet, 50mm from end
 - Sensor 4: Synthesizer interface, immersed in coolant
-```
+
 
 B. ENCLOSURE & PROTECTION
 
 5.3 Electronics Housing
 
-```
+
 MATERIAL: 3D printed PETG, 2mm wall thickness
 SEALING: IP54 rating with silicone gasket
 VENTILATION: 120mm fan with dust filter
 HEAT MANAGEMENT: 10mm air gap from hot surfaces
 MOUNTING: Vibration isolators (4× rubber grommets)
-```
+
 
 6.0 THERMAL MANAGEMENT SYSTEM
 
@@ -604,17 +603,17 @@ A. INSULATION INSTALLATION
 
 6.1 Ceramic Fiber Application
 
-```
+
 THICKNESS: 25mm ±2mm uniform coverage
 COVERAGE: 100% of reactor and heat exchanger
 SECURING: 1.5mm steel wire, 100mm spacing
 OVERLAPS: 25mm minimum, staggered joints
 COMPRESSION: 10-15% of original thickness
-```
+
 
 6.2 Heat Shield Installation
 
-```
+
 LOCATIONS:
 - Between reactor and electronics compartment
 - Between heat exchanger and reduction chamber
@@ -623,13 +622,13 @@ LOCATIONS:
 MATERIAL: 1mm aluminum with 0.5mm air gap
 MOUNTING: 10mm standoffs with ceramic spacers
 ORIENTATION: Reflective surface toward heat source
-```
+
 
 B. COOLING SYSTEM
 
 6.3 Coolant Loop Assembly
 
-```
+
 PUMP: 12V DC, 5 L/min at 3m head
 TUBING: 12mm ID silicone, 2mm wall, 600mm length
 FITTINGS: Stainless steel hose clamps, 16-25mm range
@@ -638,7 +637,7 @@ COOLANT: 60/40 water/propylene glycol mix
 
 LEAK TEST: 24 hours at 1.5× operating pressure
 FLOW VERIFICATION: >4 L/min at 12V
-```
+
 
 7.0 PERFORMANCE VALIDATION PROTOCOL
 
@@ -646,7 +645,7 @@ A. TEMPERATURE CONTROL VERIFICATION
 
 7.1 Stability Test Procedure
 
-```
+
 CONDITIONS: Steady state operation with 1kg fuel load
 DURATION: 4 hours continuous operation
 MEASUREMENT: Data logger recording every 10 seconds
@@ -655,22 +654,22 @@ ACCEPTANCE CRITERIA:
 - Standard deviation: <0.3°C
 - Maximum deviation: <1.0°C from setpoint
 - Recovery time: <2 minutes after 1°C disturbance
-```
+
 
 7.2 Sensor Calibration Verification
 
-```
+
 REFERENCE: NIST-traceable mercury thermometer
 TEST POINTS: 30°C, 32.5°C, 35°C water bath
 ACCEPTANCE: All sensors within ±0.2°C of reference
 RECALIBRATION: Required if drift >0.5°C from initial
-```
+
 
 B. SAFETY SYSTEM TESTING
 
 7.3 Emergency Shutdown Verification
 
-```
+
 TEST SCENARIOS:
 1. Reactor over-temperature: Force reading >120°C
 2. Coolant loss: Disconnect pump power
@@ -682,7 +681,7 @@ ACCEPTANCE:
 - All power removed from active components
 - Visual and audible alarm activation
 - Cannot restart without manual reset
-```
+
 
 8.0 OPERATIONAL TRAINING REQUIREMENTS
 
@@ -690,7 +689,7 @@ A. MANDATORY COMPETENCIES
 
 8.1 Basic Operation Skills
 
-```
+
 FUEL MANAGEMENT:
 - Moisture content assessment (<15% target)
 - Proper sizing (20-50mm pieces)
@@ -702,11 +701,11 @@ TEMPERATURE CONTROL:
 - Stability monitoring
 - Response to environmental changes
 - Performance logging
-```
+
 
 8.2 Maintenance Competencies
 
-```
+
 DAILY CHECKS:
 - Ash accumulation assessment
 - Fuel quality verification
@@ -718,7 +717,7 @@ WEEKLY MAINTENANCE:
 - Blower performance check
 - Coolant level verification
 - Electrical connection inspection
-```
+
 
 9.0 DOCUMENTATION & RECORDS
 
@@ -726,20 +725,530 @@ A. REQUIRED BUILD RECORDS
 
 9.1 Construction Documentation
 
-```
+
 WELD LOG: Date, operator, procedure, inspection results
 MATERIAL CERTIFICATIONS: Mill certificates for all metals
 CALIBRATION RECORDS: Sensor calibration dates and results
 TEST REPORTS: Leak tests, pressure tests, performance validation
-```
+
 
 9.2 As-Built Drawings
 
-```
+
 REQUIRED: Mark up original drawings with actual dimensions
 INCLUDE: All modifications made during construction
 VERIFICATION: Independent review by second technician
 STORAGE: Digital and physical copies in operations manual
-```
+
 
 This specification provides the engineering rigor needed for reproducible construction while remaining language-based and accessible. All critical dimensions, tolerances, procedures, and acceptance criteria are explicitly defined for consistent results across different builders..
+
+
+TERRA CORE GASIFIER - COMPLETE BUILD SYSTEM
+
+From Raw Materials to Operational Unit
+
+1.0 FABRICATION SEQUENCE WITH ERROR RECOVERY
+
+PHASE 1: BASE ASSEMBLY & SQUARENESS ESTABLISHMENT
+
+Step 1.1: Base Plate Preparation
+
+
+CRITICAL: This establishes reference plane for entire build
+
+TOOLS REQUIRED:
+- Surface plate (granite or machined steel)
+- Machinist's square (300mm)
+- Height gauge or precision level
+- Center punch
+- Angle grinder with flap disc
+
+PROCEDURE:
+1. Place base plate on surface plate
+2. Check flatness - mark high spots with marker
+3. Grind high spots until <0.5mm variation across surface
+4. Verify with straightedge - no visible gaps
+5. Punch center point and 300mm diameter circle
+
+ERROR RECOVERY:
+- If warped >1mm: Heat with torch and clamp to flat surface until cool
+- If surface pitted: Build up with weld and re-grind
+
+
+Step 1.2: Chamber-to-Base Alignment
+
+
+FIXTURE: Build temporary alignment jig from scrap wood/steel
+
+JIG DESIGN:
+- 400mm square base with 300mm diameter ring
+- 4× adjustable clamps at 90° intervals
+- Spirit level mounted centrally
+
+ASSEMBLY SEQUENCE:
+1. Position base plate on level surface
+2. Place alignment jig centered on base
+3. Insert reactor chamber into jig ring
+4. Verify:
+   - Chamber vertical within 1mm over 600mm height
+   - 10mm equal gap around circumference
+   - Square to base within 0.5°
+5. Tack weld at 4 points (90° intervals)
+6. Remove jig and verify chamber hasn't moved
+7. Complete continuous weld in 4 segments (opposite sides)
+
+[DIAGRAM: Weld sequence - 12-6 o'clock, then 3-9 o'clock, etc.]
+
+ERROR RECOVERY:
+- Chamber not square: Apply heat to opposite side and persuade with clamp
+- Weld distortion: Weld in shorter segments, allow cooling between
+
+
+PHASE 2: INTERNAL COMPONENT INSTALLATION
+
+Step 2.1: Grate Positioning System
+
+
+TEMPORARY FIXTURE: 50mm steel blocks (4x) with magnets
+
+PROCEDURE:
+1. Place blocks at 3, 6, 9, 12 o'clock positions on base
+2. Position grate on blocks
+3. Verify:
+   - 50mm clearance from base (±0.5mm)
+   - 10mm equal gap to chamber wall
+   - Level within 1mm across diameter
+4. Tack weld legs to base
+5. Remove blocks and complete welds
+
+[DIAGRAM: Grate positioning with spacer blocks]
+
+ERROR RECOVERY:
+- Grate not level: Shim with steel shims before welding
+- Clearance wrong: Cut legs and re-weld at correct height
+```
+
+Step 2.2: Air Manifold Installation
+
+
+ALIGNMENT TOOL: Laser level or string line
+
+PROCEDURE:
+1. Install manifold pipe through chamber wall
+2. Position 50mm above grate surface
+3. Verify:
+   - Holes face directly upward
+   - Pipe level within 1mm over length
+   - Centered in chamber
+4. Tack weld, then complete full welds
+
+[DIAGRAM: Manifold hole orientation - must face up]
+
+ERROR RECOVERY:
+- Holes not facing up: Cut and re-weld
+- Pipe sagging: Install temporary center support during welding
+
+
+PHASE 3: HEAT EXCHANGER CONSTRUCTION
+
+Step 3.1: Copper-to-Steel Brazing Procedure
+
+
+CRITICAL: Heat control prevents warping and failed joints
+
+BRAZING SEQUENCE:
+1. Clean all surfaces with emery cloth
+2. Apply flux to both steel and copper
+3. Clamp assembly in position
+4. Heat sequence:
+   - Heat steel first until flux bubbles
+   - Move heat to copper until flux flows
+   - Apply filler to steel-copper interface
+   - Capillary action should draw filler through joint
+5. Cool naturally - DO NOT quench
+
+[DIAGRAM: Heat movement pattern for brazing]
+
+ERROR RECOVERY:
+- Filler won't flow: More heat on steel, less on copper
+- Joint leaks: Clean thoroughly and re-braze
+- Overheating (blue steel): Stop, cool, clean, restart with less heat
+
+
+Step 3.2: Cooling Coil Installation
+
+
+COIL FORMING JIG: Wood or metal drum 150mm diameter
+
+PROCEDURE:
+1. Wrap copper pipe around jig to form coil
+2. Anneal coil by heating to red and air cooling
+3. Install in heat exchanger chamber
+4. Verify:
+   - Equal spacing between coils (±2mm)
+   - No kinks or restrictions
+   - Centered in chamber
+5. Secure with stainless steel wire ties
+
+[DIAGRAM: Coil spacing and attachment method]
+
+ERROR RECOVERY:
+- Coil too stiff: Anneal more thoroughly
+- Kinks formed: Cut out damaged section, splice with coupling
+
+
+PHASE 4: INSULATION & CASING
+
+Step 4.1: Ceramic Blanket Installation
+
+
+PATTERN CUTTING TEMPLATE: Cardboard or paper
+
+PROCEDURE:
+1. Create paper template of chamber circumference
+2. Cut blanket to template shape + 10mm overlap
+3. Install in two layers with staggered seams
+4. Secure with steel wire every 100mm
+5. Compress to 20-22mm thickness (10-15% compression)
+
+[DIAGRAM: Staggered seam pattern for insulation]
+
+ERROR RECOVERY:
+- Gaps in coverage: Cut patches and tuck into gaps
+- Over-compression: Remove and re-install with less tension
+
+
+Step 4.2: Outer Casing Fabrication
+
+
+FORMING METHOD: Brake press or hammer form
+
+PROCEDURE:
+1. Cut casing panels to size
+2. Form bends in sequence to avoid stress
+3. Trial fit before final welding
+4. Weld casing seams in short segments
+5. Verify 50mm air gap maintained throughout
+
+[DIAGRAM-missing: Casing panel layout and bend sequence]
+
+ERROR RECOVERY:
+- Panels don't fit: Trim and patch with additional material
+- Warping during welding: Use clamps and weld in opposite pairs
+
+
+2.0 IMPROVISED TOOLING & FIXTURES
+
+A. ALIGNMENT TOOLS FROM SCRAP MATERIALS
+
+2.1 Precision Square from Plate Steel
+
+
+CONSTRUCTION:
+1. Cut 300mm × 150mm × 6mm steel plate
+2. Grind one long edge straight within 0.1mm
+3. Weld 150mm leg at 90° (use machinist's square for reference)
+4. Heat treat to relieve stress
+5. Verify squareness against known reference
+
+USAGE: Check chamber verticality and component alignment
+
+
+2.2 Surface Plate Alternative
+
+
+IMPROVISED SURFACE:
+- Thick glass patio door (check with straightedge)
+- Granite countertop scrap
+- Machined machine table
+- Large piece of plate glass
+
+VERIFICATION: Use feeler gauges - should accept no >0.05mm shims
+
+
+2.3 Weld Distortion Control Fixture
+
+
+DESIGN: 
+- Heavy steel table or frame
+- Multiple strong-back braces
+- Heat sinks (copper blocks)
+- Adjustable clamps
+
+USAGE: Clamp assembly to massive object during welding to absorb heat and prevent movement
+
+
+B. MEASUREMENT TOOLS
+
+2.4 Precision Height Gauge Alternative
+
+
+TOOLS:
+- Vernier caliper
+- Surface plate
+- Gauge blocks or known-thickness parallels
+- Dial indicator with magnetic base
+
+PROCEDURE: Stack gauges to measure heights indirectly
+
+
+2.5 Leak Testing Adapter
+
+
+CONSTRUCTION:
+- PVC pipe cap matching port size
+- Schrader valve from bicycle tube
+- Pressure gauge (0-15 PSI)
+- Hose clamps and rubber gasket
+
+USAGE: Pressurize system and monitor for pressure drop
+
+
+3.0 ERROR RECOVERY PROCEDURES
+
+A. WELDING ISSUES
+
+3.1 Warped Base Plate
+
+
+SYMPTOMS: Chamber won't sit flat, gaps under base
+
+CORRECTION:
+1. Identify high spots with straightedge
+2. Heat spots to cherry red with torch
+3. Clamp to flat surface until cool
+4. Re-check and repeat if necessary
+
+PREVENTION: Weld in opposite segments, allow cooling between
+
+
+3.2 Misaligned Chamber
+
+
+SYMPTOMS: Chamber not vertical, components won't fit
+
+CORRECTION:
+1. Measure deviation at top
+2. Apply heat to opposite side
+3. Use come-along or straps to pull straight
+4. Allow to cool under tension
+5. Re-weld if necessary
+
+PREVENTION: Use alignment jig during initial assembly
+
+
+3.3 Leaking Brazed Joints
+
+
+SYMPTOMS: Coolant leak, pressure drop during test
+
+CORRECTION:
+1. Clean joint thoroughly with wire brush
+2. Apply flux to cleaned area
+3. Re-heat and add additional filler
+4. For persistent leaks: Cut out and replace section
+
+PREVENTION: Proper heat control during initial brazing
+
+
+B. MACHINING/FITTING ISSUES
+
+3.4 Components Won't Fit
+
+
+SYMPTOMS: Parts too tight or too loose
+
+CORRECTION:
+TIGHT FIT:
+- Measure interference
+- Remove material gradually
+- Check fit frequently
+
+LOOSE FIT:
+- Build up with weld and re-machine
+- Use shims or filler material
+- Re-design connection method
+
+
+3.5 Hole Misalignment
+
+
+SYMPTOMS: Bolts won't pass through, components skewed
+
+CORRECTION:
+1. Enlarge holes with rat-tail file or reamer
+2. Use oversize bolts with washers
+3. For critical alignment: Weld shut and re-drill
+
+PREVENTION: Drill pilot holes, use jigs for final drilling
+
+
+4.0 ASSEMBLY VERIFICATION CHECKPOINTS
+
+CHECKPOINT 1: AFTER BASE ASSEMBLY
+
+
+VERIFICATIONS:
+- Base flat within 0.5mm ✓
+- Chamber vertical within 1mm/600mm ✓  
+- No visible weld defects ✓
+- Pressure test holds 0.5 PSI for 5 minutes ✓
+
+HOLD POINT: Do not proceed until all checks pass
+
+
+CHECKPOINT 2: AFTER INTERNAL INSTALLATION
+
+
+VERIFICATIONS:
+- Grate level within 1mm ✓
+- Manifold 50mm above grate ✓
+- Holes face upward ✓
+- All internal welds complete ✓
+
+HOLD POINT: Verify before insulation installation
+
+
+CHECKPOINT 3: AFTER HEAT EXCHANGER
+
+
+VERIFICATIONS:
+- All brazed joints leak-free ✓
+- Cooling coil flows freely ✓
+- Temperature sensors installed ✓
+- Electrical continuity verified ✓
+
+HOLD POINT: Test before final casing closure
+
+
+5.0 ALTERNATIVE CONSTRUCTION METHODS
+
+A. WHEN IDEAL TOOLS UNAVAILABLE
+
+5.1 No Welder Available
+
+
+ALTERNATIVE JOINING METHODS:
+- Bolted flanges with high-temp gaskets
+- Mechanical couplings for pipes
+- Riveted construction for casing
+- High-temp epoxy for non-structural joints
+
+LIMITATIONS: Pressure and temperature ratings reduced
+
+
+5.2 No Machine Tools Available
+
+
+ALTERNATIVE FABRICATION:
+- Hand files for precision fitting
+- Angle grinder with guide for straight cuts
+- Drill press substitute: Hand drill with guide block
+- Surface grinding: Mill file with straightedge
+
+PRECISION: Expect ±0.5mm instead of ±0.1mm
+
+
+5.3 Material Substitutions
+
+
+ACCEPTABLE SUBSTITUTIONS:
+- Stainless steel instead of mild steel (better but more expensive)
+- Aluminum for non-structural parts (lower temp rating)
+- Ceramic wool instead of fiber blanket (similar performance)
+- Automotive coolant instead of glycol mix (check compatibility)
+
+
+6.0 PERFORMANCE VALIDATION SEQUENCE
+
+STEP-BY-STARTUP TESTING
+
+First Fire Procedure
+
+
+PRE-START CHECKS:
+- Coolant system filled and bled ✓
+- Electrical system powered and tested ✓
+- Fuel prepared and loaded ✓
+- Safety equipment ready ✓
+
+STARTUP SEQUENCE:
+1. Ignite small amount of fuel through door
+2. Close door and wait for pyrolysis (2-3 minutes)
+3. Gradually introduce air via blower
+4. Monitor temperature rise
+5. Adjust air flow until clean gasification achieved
+6. Bring to operating temperature (32.5°C)
+
+[DIAGRAM: Temperature profile during startup]
+
+
+Shakedown Testing
+
+
+8-HOUR CONTINUOUS TEST:
+- Monitor temperature stability every 15 minutes
+- Record fuel consumption hourly
+- Check for leaks or issues
+- Verify safety systems functional
+
+ACCEPTANCE CRITERIA:
+- Temperature stability: ±0.5°C maintained
+- Fuel consumption: 1.2-1.8 kg/hour
+- No leaks or malfunctions
+- All safety systems operational
+
+
+7.0 OPERATIONAL TRAINING PROGRESSION
+
+SKILL BUILDING SEQUENCE
+
+Level 1: Basic Operation
+
+
+COMPETENCIES:
+- Safe startup and shutdown
+- Fuel management
+- Basic troubleshooting
+- Daily maintenance
+
+TRAINING METHOD:
+- Supervised operation for 10 cycles
+- Written procedures for reference
+- Performance checklist verification
+
+
+Level 2: Maintenance & Repair
+
+
+COMPETENCIES:
+- Component replacement
+- Sensor calibration
+- Weld repair
+- System optimization
+
+TRAINING METHOD:
+- Hands-on repair sessions
+- Fault insertion exercises
+- Performance under supervision
+
+
+Level 3: Fabrication & Rebuild
+
+
+COMPETENCIES:
+- Complete disassembly/reassembly
+- Fabrication of replacement parts
+- Design modifications
+- Training others
+
+TRAINING METHOD:
+- Build complete unit from scratch
+- Modify existing design
+- Teach operation to new users
+
+
+This complete build system provides the missing "how-to" knowledge that bridges the gap between engineering specification and successful construction. It accounts for real-world constraints, provides error recovery paths, and ensures builders can succeed even when conditions are less than ideal.
+
+The combination of precise specifications + practical assembly guidance + error recovery procedures + improvised tooling designs = reproducible construction by anyone with basic metalworking skills.
