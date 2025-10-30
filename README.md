@@ -18,10 +18,10 @@ TerraCore is an open-source, solar-powered food synthesis system that produces e
 Project Originator: Joshua Roy Dakin Mandryk (ABN: 80662917463)
 
 Current Status
-- Active commercial partnership discussions underway
-- Seeking academic validation from leading research institutions  
-- Developing commercial licensing framework
-- Prototype designs complete, preparing for professional CAD development
+- Active commercial partnership discussions underway (risk factor rejections - due to personal circumstances alone)
+- Seeking academic validation from leading research institutions (it goes against status quo, the ones that can validate it refuse based on potential negative impact of food industry)(treated like the invention of electricity, maybe in 20 years others will steal the design and it will be the norm)
+- Developing commercial licensing framework (complete but factors above make this irrelevant)
+- Prototype designs complete, preparing for professional CAD development (homeless in a tent with pets which means no access to healthcare or support services, physical health depleting, I won't last long, then you heartless, shameful assholes can Squash the idea to save your precious profit margins and continue to kill the earth and the people and animals living on it, while the cowards sit back and do nothing about it)
 
 Immediate Goal
 Secure development funding to produce professional CAD blueprints and formalize the Terracore Thermal Core technology.
