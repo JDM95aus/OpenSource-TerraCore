@@ -199,6 +199,73 @@ Container:Metal barrels, plastic bins, clay pots, wooden boxes
 
 
 
+
+The Self-Renewing Mushroom Colony: Setup & Maintenance Guide
+
+Materials Required:
+
+· 200L HDPE drum with sealing lid
+· Wheat straw/hardwood chips (15-20kg dry weight)
+· Oyster mushroom spawn (3-4kg)
+· Clean water source
+· Spray bottle/mister
+· Large drum or pot for pasteurization
+
+Colony Establishment Protocol:
+
+Substrate Preparation:
+
+1. Chop straw to 10-15cm lengths.
+2. Pasteurization: Heat water until steady bubbles rise from the bottom (approx. 70-75°C). Submerge straw for 90 minutes.
+3. Drain Test: Drain thoroughly. When you squeeze a handful, only 1-2 drops of water should be released.
+4. Cooling Test: Spread the substrate. It must be cool enough that you can comfortably press your wrist into it. If it's too hot for your skin, it will kill the spawn.
+
+Drum Inoculation:
+
+· Mix spawn thoroughly through the cooled substrate.
+· Pack mixture firmly into the drum.
+· Seal the lid completely.
+· Place in a shaded, protected location.
+
+Daily Production Protocol:
+
+Harvest Procedure (Daily):
+
+· Harvest when mushroom caps are mostly flat but before the edges curl upwards.
+· Gently twist and pull clusters at the base. Never cut.
+· The 60% Rule: Never harvest more than 60% of the mature mushrooms. Leave all small pins and baby mushrooms for the next day.
+
+Post-Harvest Maintenance:
+
+· Heavy Misting: Thoroughly spray the exposed substrate surface with clean water after harvesting.
+· Evening Ventilation: Open the lid for 1-2 hours after sunset to let in cool, fresh air. Then reseal it.
+
+Environmental Management (No Tools Needed):
+
+Temperature & Humidity:
+
+· The Hand Test: Place your hand on the inside wall of the drum.
+  · Ideal: The wall feels cool and covered in tiny water droplets (like a gentle sweat).
+  · Too Dry/Hot: The wall feels warm and dry. Mist more heavily and provide more shade.
+  · Too Wet: Water is pooling at the bottom or dripping heavily. Increase ventilation time.
+· Drum Placement: Keep the drum in a place that is shaded from direct sun all day but gets bright, indirect light.
+
+Long-Term Colony Management:
+
+Seasonal Recharge (When production slows):
+
+· Make small holes in the substrate with a stick.
+· Fill the holes with a handful of fresh, pasteurized straw or wood chips.
+· The existing mycelium will grow into this new food within 7-10 days.
+
+Colony Propagation:
+
+· When a drum is producing especially well, take a fist-sized piece of mycelium from its center.
+· Use this to inoculate a brand new drum. It will colonize in just 3-4 days.
+· Fill the hole in the original drum with fresh substrate.
+
+This system uses observation and simple, natural tests to maintain a perpetual food source. The colony's health is judged by touch and sight, making the knowledge accessible to everyone.
+
 COLONY EXPANSION & TRADING SYSTEM
 
 Starting from humanitarian aid vials:
@@ -218,7 +285,6 @@ Breeders:Maintain and expand colony lines
 Builders:Construct and maintain cultivation systems
 Teachers:Train new community members
 
-This document is part of the OpenSourceTerraCore Project under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Suggested Additions & Enhancements
 
@@ -450,3 +516,8 @@ Seasonal:
 · Refresh mulch as it decomposes
 
 This system creates a stable microclimate that protects plants from both extreme heat and cold while maintaining consistent growing conditions year-round. The key is maintaining the permanent shade structure while making minimal adjustments to the additional layers as seasons change.
+
+
+
+
+This document is part of the OpenSourceTerraCore Project under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
