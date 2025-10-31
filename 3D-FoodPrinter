@@ -4,7 +4,7 @@
 
 1.1 Frame Dimensions & Tolerances
 
-```
+
 EXTERIOR DIMENSIONS:
 - Width: 500.0mm ±0.5mm
 - Depth: 400.0mm ±0.5mm  
@@ -25,11 +25,11 @@ CUT LIST:
 - Top front/back: 2× 450mm
 - Top sides: 2× 350mm
 - Internal supports: 4× 380mm (diagonal bracing)
-```
+
 
 1.2 Assembly Procedure
 
-```
+
 STEP 1: BASE FRAME
 1. Lay 450mm and 350mm extrusions in rectangle
 2. Join with 90° brackets using M4×16mm bolts
@@ -56,13 +56,13 @@ STEP 4: PANEL INSTALLATION
 4. Rear: 500×400mm with ventilation
 5. Mount with M4×10mm button head screws
 6. Apply silicone gasket around door opening
-```
+
 
 2. MOTION SYSTEM - MANUFACTURING SPEC
 
 2.1 CoreXY Drive System
 
-```
+
 COMPONENTS:
 - NEMA 17 steppers: 2× 1.8° 1.2A 40Ncm
 - GT2 timing belts: 6mm width, fiber reinforced
@@ -87,11 +87,11 @@ INSTALLATION:
    - Mount 4× MGN12H carriages
    - Install belt attachment points
    - Balance check: neutral when powered off
-```
+
 
 2.2 Linear Motion Components
 
-```
+
 RAIL SPECIFICATIONS:
 - X-axis: 2× MGN12 350mm rails
 - Y-axis: 2× MGN12 300mm rails  
@@ -114,13 +114,13 @@ MOUNTING PROCEDURE:
    - Pre-load adjustment per manufacturer spec
    - Lubricate with light machine oil
    - Verify smooth travel through full range
-```
+
 
 3. CARTRIDGE SYSTEM - PRODUCTION READY
 
 3.1 Cartridge Dock Assembly
 
-```
+
 DOCK BODY:
 - Material: 5mm 304 stainless steel
 - Dimensions: 120×75×50mm internal
@@ -138,11 +138,11 @@ STERILIZATION:
 - Exposure time: 15 seconds
 - Safety interlock: Door switch
 - Status indicator: RGB LED ring
-```
+
 
 3.2 Biomass Handling
 
-```
+
 VACUUM SYSTEM:
 - Pump: 12V DC diaphragm, 15L/min flow
 - Tubing: 8mm ID silicone, 300mm length
@@ -160,13 +160,13 @@ EXTRACTION:
 - Clog detection: Pressure differential
 - Purge cycle: Automatic reverse flow
 - Cleaning: Hot water flush between cartridges
-```
+
 
 4. PRINT HEAD - MANUFACTURING DETAILS
 
 4.1 Nozzle Array Assembly
 
-```
+
 MAIN BODY:
 - Material: 6061 aluminum, hard anodized
 - Dimensions: 80×60×40mm
@@ -185,11 +185,11 @@ FLUID PATHS:
 - Additive inlets: 7× 2mm ID, individual paths
 - Thermal isolation: PEEK insulators between paths
 - Quick-disconnect: Luer lock fittings
-```
+
 
 4.2 Temperature Management
 
-```
+
 HEATING SYSTEM:
 - Heater cartridge: 24V 40W, 6mm diameter
 - Thermal paste: 5 W/mK conductivity minimum
@@ -201,13 +201,13 @@ CONTROL:
 - Sampling rate: 10Hz
 - Safety limit: 85°C hardware cutoff
 - Recovery: 2°C/minute maximum ramp
-```
+
 
 5. DOSING SYSTEM - PRODUCTION SPEC
 
 5.1 Pump Assembly
 
-```
+
 PUMP STACK:
 - Type: 8× peristaltic stepper-driven
 - Flow range: 0.001-10ml/minute per pump
@@ -225,11 +225,11 @@ TUBING SYSTEM:
 - Size: 2mm ID, 4mm OD, 1mm wall
 - Fittings: Barbed 2mm with hose clamps
 - Length: 300mm per pump to print head
-```
+
 
 5.2 Reservoir System
 
-```
+
 RESERVOIR SPECS:
 - Capacity: 500ml each, 8 total
 - Material: Borosilicate glass, amber
@@ -247,13 +247,12 @@ FILLING SYSTEM:
 - Level indication: Transparent strip
 - Overflow protection: Secondary containment
 - Cleaning access: Wide mouth design
-```
 
 6. ELECTRONICS - MANUFACTURING PACKAGE
 
 6.1 Main Control Board
 
-```
+
 PCB SPECIFICATIONS:
 - Dimensions: 100×80×1.6mm
 - Layers: 4-layer, 1oz copper
@@ -271,11 +270,11 @@ CONTROL OUTPUTS:
 - Heater outputs: 8× MOSFET 30A each
 - Pump controls: 8× PWM 25kHz
 - Sensor inputs: 16× ADC 12-bit
-```
+
 
 6.2 Wiring Harness
 
-```
+
 CABLE SPECIFICATIONS:
 - Power: 18AWG silicone, 200°C rating
 - Motors: 22AWG 4-conductor, shielded
@@ -294,13 +293,13 @@ HARNESS ASSEMBLY:
 - Strain relief at all connections
 - Cable management with adhesive clips
 - Service loops for maintenance access
-```
+
 
 7. SOFTWARE - PRODUCTION FIRMWARE
 
 7.1 Core Control System
 
-```
+
 FIRMWARE ARCHITECTURE:
 - Base: Marlin 2.1.x with custom modifications
 - Real-time: FreeRTOS for task management
@@ -318,11 +317,11 @@ TEMPERATURE MANAGEMENT:
 - Thermal protection: Software and hardware
 - Preheat profiles for different materials
 - Cooldown management for safety
-```
+
 
 7.2 Production Calibration
 
-```
+
 FACTORY CALIBRATION PROCEDURE:
 
 1. Mechanical calibration:
@@ -344,14 +343,14 @@ FACTORY CALIBRATION PROCEDURE:
    - Print test pattern with measurement
    - Cartridge cycle time: <30 seconds
    - Meal production: 3-5 minutes per serving
-```
+
 production.
 
 8. THERMAL MANAGEMENT SYSTEM
 
 8.1 Heated Build Chamber
 
-```
+
 CHAMBER CONSTRUCTION:
 - Insulation: 25mm ceramic fiber board, 1260°C rating
 - Interior: 1mm 304 stainless steel, electropolished finish
@@ -369,11 +368,11 @@ CONTROL SYSTEM:
 - Safety: Dual thermal fuses (75°C and 85°C)
 - Humidity control: 30-80% RH with desiccant wheel
 - Ventilation: 120mm EC fan with variable speed
-```
+
 
 8.2 Cooling Systems
 
-```
+
 ACTIVE COOLING:
 - Water cooling loop: 6mm copper tubing around hotend
 - Pump: 12V DC 5L/min with dry-run protection
@@ -385,13 +384,13 @@ EMERGENCY COOLING:
 - Heat sinks: Copper with heat pipes
 - Power: Dedicated 24V 10A supply
 - Activation: Automatic on temperature excursion
-```
+
 
 9. FOOD SAFETY & SANITATION
 
 9.1 Sterilization Systems
 
-```
+
 UV-C STERILIZATION:
 - Lamps: 4× 100W pulsed xenon, 254nm wavelength
 - Exposure: 15 seconds at 50,000 μW/cm²
@@ -408,11 +407,11 @@ STEAM STERILIZATION:
 - Generator: 2kW instant steam, 121°C output
 - Cycle: 5 minutes at 121°C for weekly deep clean
 - Safety: Pressure relief valve, temperature monitoring
-```
+
 
 9.2 Contamination Control
 
-```
+
 AIR MANAGEMENT:
 - HEPA filtration: H13 grade, 99.97% at 0.3μm
 - Positive pressure: +5 Pa maintained in print chamber
@@ -424,13 +423,13 @@ MATERIAL SEPARATION:
 - Dedicated tools for different zones
 - Color-coded components to prevent cross-use
 - Automated cleaning between material changes
-```
+
 
 10. PRECISION PROCESSING SYSTEMS
 
 10.1 Biomass Preparation
 
-```
+
 GRINDING SYSTEM:
 - Burr grinder: Food-grade ceramic, 50-100mm adjustable
 - Motor: 24V DC 100W with torque control
@@ -448,11 +447,11 @@ VISCOSITY MANAGEMENT:
 - Temperature compensation: Automatic for readings
 - Control: Add thickener or solvent as needed
 - Target range: 500-5000 cP for optimal printing
-```
+
 
 10.2 Flavor & Texture Engineering
 
-```
+
 FLAVOR DELIVERY:
 - Micro-encapsulation: For timed flavor release
 - Layered deposition: Different flavors in structure
@@ -464,13 +463,12 @@ TEXTURE CONTROL:
 - Infill patterns: Grid, honeycomb, concentric selectable
 - Surface finish: Smooth, rough, patterned options
 - Structural integrity: Controlled collapse for mouthfeel
-```
+
 
 11. QUALITY CONTROL SYSTEMS
 
 11.1 Real-Time Monitoring
 
-```
 OPTICAL INSPECTION:
 - Cameras: 2× 5MP with macro lenses
 - Lighting: RGBW adjustable for different foods
@@ -488,11 +486,11 @@ WEIGHT VERIFICATION:
 - Checkpoints: Pre-print, during print, final product
 - Tolerance: ±1% of target weight
 - Automatic adjustment: For under/over weight
-```
+
 
 11.2 Safety Monitoring
 
-```
+
 PATHOGEN DETECTION:
 - ATP monitoring: Surface cleanliness verification
 - Air sampling: Weekly microbial counts
@@ -504,13 +502,13 @@ TEMPERATURE LOGGING:
 - Data logging: 1-year retention
 - Alerts: SMS/email for excursions
 - Reporting: Automated compliance documentation
-```
+
 
 12. USER INTERFACE & CONTROLS
 
 12.1 Control Panel
 
-```
+
 TOUCHSCREEN INTERFACE:
 - Display: 7" capacitive touch, 1280×800 resolution
 - Processor: Quad-core ARM with 2GB RAM
@@ -528,11 +526,11 @@ SOFTWARE FEATURES:
 - Nutritional calculator: Real-time adjustments
 - User profiles: Unlimited custom profiles
 - Maintenance scheduling: Predictive alerts
-```
+
 
 12.2 Mobile Integration
 
-```
+
 MOBILE APP:
 - Platform: iOS and Android
 - Features: Remote monitoring, recipe upload, status
@@ -544,13 +542,13 @@ CLOUD CONNECTIVITY:
 - Updates: Over-the-air firmware updates
 - Backup: Automatic cloud backup of settings
 - Analytics: Usage patterns and optimization
-```
+
 
 13. MAINTENANCE SYSTEMS
 
 13.1 Self-Maintenance Features
 
-```
+
 AUTOMATED CLEANING:
 - Daily: 10-minute chemical flush of all fluid paths
 - Weekly: 30-minute steam sterilization
@@ -562,11 +560,11 @@ PREDICTIVE MAINTENANCE:
 - Belt tension: Automatic monitoring and adjustment
 - Filter life: Pressure differential monitoring
 - Nozzle wear: Flow rate deviation detection
-```
+
 
 13.2 Service Access
 
-```
+
 MODULAR DESIGN:
 - Quick-release panels: Tool-free access
 - Color-coded connectors: Prevent mis-wiring
@@ -578,13 +576,13 @@ FIELD REPLACEABLE UNITS:
 - Pumps: 2-minute individual replacement
 - Electronics: 10-minute board swap
 - Sensors: Plug-and-play calibration
-```
+
 
 14. POWER & UTILITIES
 
 14.1 Utility Connections
 
-```
+
 WATER SYSTEM:
 - Input: 1/4" food-grade tubing, 2-5 PSI pressure
 - Filtration: 5μm sediment + 0.2μm bacterial filter
@@ -602,11 +600,11 @@ VENTILATION:
 - Flow: 50 CFM minimum
 - Filtration: Carbon filter for odor control
 - Backdraft prevention: Motorized damper
-```
+
 
 14.2 Environmental Requirements
 
-```
+
 OPERATING ENVIRONMENT:
 - Temperature: 15-30°C ambient
 - Humidity: 30-70% non-condensing
@@ -618,13 +616,13 @@ INSTALLATION REQUIREMENTS:
 - Vibration: Isolated from heavy machinery
 - Lighting: 500 lux minimum for visual inspection
 - Access: 1.5m front clearance for cartridge loading
-```
+
 
 15. COMPLIANCE & CERTIFICATION
 
 15.1 Regulatory Requirements
 
-```
+
 FOOD SAFETY CERTIFICATIONS:
 - NSF/ANSI 2: Food equipment standard
 - ISO 22000: Food safety management
@@ -642,11 +640,11 @@ MATERIAL CERTIFICATIONS:
 - EU 10/2011: Food contact plastics
 - NSF 51: Food equipment materials
 - Kosher/Halal: Religious compliance
-```
+
 
 15.2 Documentation Requirements
 
-```
+
 TECHNICAL DOCUMENTATION:
 - Installation manual: Step-by-step setup
 - Operation manual: Daily use procedures
@@ -664,13 +662,12 @@ QUALITY RECORDS:
 - Calibration records: For all measuring equipment
 - Test reports: For each production unit
 - Compliance certificates: From testing laboratories
-```
 
 16. FLUID PATH ENGINEERING
 
 16.1 Biomass Conduit System
 
-```
+
 TUBING NETWORK:
 - Primary biomass: 8mm ID platinum-cured silicone, 500mm length
 - Additive lines: 8× 3mm ID FEP tubing, 400mm each
@@ -688,11 +685,11 @@ FLOW OPTIMIZATION:
 - Slope: 2° downward for drainage
 - Access: Quick-release panels for cleaning
 - Identification: Color-coded tubing per function
-```
+
 
 16.2 Pressure Management
 
-```
+
 PRESSURE ZONES:
 - Biomass delivery: 2-5 PSI positive pressure
 - Vacuum harvesting: 8-12" Hg negative pressure
@@ -704,13 +701,13 @@ CONTROL COMPONENTS:
 - Relief valves: 8× 15 PSI pop-off safety valves
 - Gauges: 4× 2" dial, 0-30 PSI range with dampening
 - Sensors: 8× piezoresistive, 0.1% accuracy
-```
+
 
 17. SENSOR NETWORK COMPLETE SPEC
 
 17.1 Process Monitoring Sensors
 
-```
+
 TEMPERATURE SENSORS:
 - Type: 12× PT100 RTD, 3-wire configuration
 - Range: -50°C to 300°C
@@ -734,11 +731,11 @@ LEVEL SENSORS:
 - Range: 0-500mm detection
 - Accuracy: ±1mm
 - Locations: Reservoirs, buffer, waste container
-```
+
 
 17.2 Quality Assurance Sensors
 
-```
+
 COMPOSITION SENSORS:
 - NIR spectrometer: 900-1700nm range, 8nm resolution
 - pH sensor: Glass electrode, 2-12 pH range, 0.01 resolution
@@ -750,13 +747,13 @@ MECHANICAL SENSORS:
 - Torque: Grinder motor load, 0-5 Nm range
 - Vibration: 3-axis accelerometer, 0-50g range
 - Position: 8× Hall effect sensors for door/cover detection
-```
+
 
 18. CONTROL SYSTEM ARCHITECTURE
 
 18.1 Main Controller Hardware
 
-```
+
 PROCESSOR BOARD:
 - MCU: STM32H743VI (ARM Cortex-M7, 400MHz)
 - Memory: 2MB Flash, 1MB RAM
@@ -770,11 +767,11 @@ EXPANSION BOARDS:
 - Sensor interface: 16× 24-bit ADC channels
 - Communication: Ethernet, WiFi, Bluetooth 5.0
 - Real-time clock: Battery-backed with temperature compensation
-```
+
 
 18.2 Safety Circuitry
 
-```
+
 SAFETY SUBSYSTEM:
 - Emergency stop: Hardware relay chain, NC configuration
 - Watchdog timer: Independent microcontroller
@@ -787,13 +784,13 @@ REDUNDANCY:
 - Backup sensors: Critical measurements have duplicates
 - Data validation: CRC checks on all communications
 - Fail-safe states: All outputs defined for fault conditions
-```
+
 
 19. FIRMWARE ARCHITECTURE
 
 19.1 Real-Time Operating System
 
-```
+
 RTOS CONFIGURATION:
 - Kernel: FreeRTOS 10.4.3
 - Tasks: 12 prioritized threads
@@ -808,13 +805,13 @@ TASK STRUCTURE:
 - Safety monitoring: 10kHz critical checks
 - User interface: 60Hz display updates
 - Data logging: 10Hz sensor recording
-```
+
 
 19.2 Control Algorithms
 
-```
+
 MOTION CONTROL:
-```cpp
+cpp
 class FoodPrinterMotion {
 private:
     TrajectoryPlanner planner;
@@ -831,11 +828,11 @@ public:
         }
     }
 };
-```
+
 
 TEMPERATURE CONTROL:
 
-```cpp
+cpp
 class MultiZonePID {
 private:
     PIDController zones[8];
@@ -850,13 +847,13 @@ public:
         }
     }
 };
-```
+
 
 20. CALIBRATION PROCEDURES
 
 20.1 Factory Calibration
 
-```
+
 MECHANICAL CALIBRATION:
 1. Frame squareness: Laser alignment to 0.1mm/m
 2. Rail parallelism: Precision ground bars, 0.02mm tolerance
@@ -874,11 +871,11 @@ FLUID CALIBRATION:
 2. Pressure drops: Manometer readings through full system
 3. Temperature uniformity: Thermal imaging verification
 4. Mixing efficiency: Tracer studies for homogeneity
-```
+
 
 20.2 Field Calibration
 
-```
+
 USER CALIBRATION PROCEDURES:
 - Daily: Nozzle wipe and bed level check
 - Weekly: Flow rate verification with test pattern
@@ -890,13 +887,12 @@ AUTOMATED CALIBRATION:
 - Flow calibration: Printed cube with dimensional check
 - Temperature calibration: Reference thermocouple comparison
 - Nozzle offset: Automated touch probe measurement
-```
 
 21. TESTING & VALIDATION
 
 21.1 Production Testing
 
-```
+
 BURN-IN TESTING:
 - Duration: 24-hour continuous operation
 - Load: Simulated full production conditions
@@ -914,11 +910,11 @@ ENVIRONMENTAL TESTING:
 - Humidity: 30% to 80% non-condensing
 - Vibration: 0.5g RMS for 1 hour
 - Power: ±10% voltage variation tolerance
-```
+
 
 21.2 Food Safety Validation
 
-```
+
 MICROBIOLOGICAL TESTING:
 - Surface swabs: ATP <100 RLU on all food contact surfaces
 - Air quality: <100 CFU/m³ in print chamber
@@ -930,13 +926,13 @@ MATERIAL COMPATIBILITY:
 - Migration testing: For all food contact materials
 - Thermal stability: No degradation at operating temperatures
 - Cleanability: Validation of cleaning protocols
-```
+
 
 22. PACKAGING & SHIPPING
 
 22.1 Packaging Specifications
 
-```
+
 PRIMARY PACKAGING:
 - Corrugated box: 600×500×450mm, 200# test, double wall
 - Interior: Custom molded foam, 2lb density
@@ -954,11 +950,11 @@ SHIPPING PREPARATION:
 - Moisture control: Desiccant packs in all compartments
 - Shock indicators: 25g threshold on exterior
 - Orientation labels: "This side up" on all six faces
-```
+
 
 22.2 Installation Kit
 
-```
+
 TOOLS PROVIDED:
 - Hex key set: Metric 1.5mm to 10mm
 - Torque wrench: 0.5-5 Nm range with calibration
@@ -976,13 +972,13 @@ DOCUMENTATION:
 - Safety manual: Laminated emergency procedures
 - Maintenance schedule: Color-coded timeline
 - Support information: 24/7 contact details
-```
+
 
 23. TRAINING & DOCUMENTATION
 
 23.1 Operator Training Program
 
-```
+
 TRAINING MODULES:
 1. Safety overview (2 hours)
 2. Daily operation (4 hours)
@@ -1001,11 +997,11 @@ CERTIFICATION:
 - Practical test: Demonstrated competency on live machine
 - Annual refresher: 4-hour update training required
 - Advanced certification: For maintenance technicians
-```
+
 
 23.2 Technical Documentation
 
-```
+
 SERVICE MANUALS:
 - Theory of operation: Complete system overview
 - Troubleshooting: Symptom-based flowcharts
@@ -1023,13 +1019,13 @@ COMPLIANCE BINDER:
 - Test reports: Factory acceptance documentation
 - Material certifications: Food contact compliance
 - Calibration records: NIST-traceable documentation
-```
+
 
 24. FASTENERS & CONSUMABLES
 
 24.1 Complete Hardware List
 
-```
+
 QUANTIFIED FASTENERS:
 - M3×8mm screws: 120 pieces (sensors, electronics)
 - M3×12mm screws: 80 pieces (brackets, mounts)  
@@ -1046,11 +1042,11 @@ QUANTIFIED FASTENERS:
 - Wire ferrules: 100 pieces (0.5mm², 1.0mm², 1.5mm²)
 - Thread locker: 2 bottles (blue medium strength)
 - Thermal paste: 1 tube (5 W/mK conductivity)
-```
+
 
 24.2 Electrical Components
 
-```
+
 POWER COMPONENTS:
 - 24V 20A power supply: Mean Well LRS-350-24
 - 5V 3A buck converter: 2× for logic power
@@ -1067,13 +1063,13 @@ WIRING:
 - 22AWG stranded: 20 meters (sensor wiring)
 - Shielded cable: 10 meters (motor encoders)
 - Ground wire: 5 meters 14AWG green/yellow
-```
+
 
 25. FLUID SYSTEM COMPONENTS
 
 25.1 Tubing & Fittings
 
-```
+
 TUBING & FITTINGS:
 - Silicone tubing 8mm ID: 3 meters
 - Silicone tubing 4mm ID: 5 meters  
@@ -1089,13 +1085,13 @@ SEALING MATERIALS:
 - PTFE tape: 2 rolls
 - O-rings: Assortment kit (100 pieces)
 - Gasket material: 1 sheet 2mm food-grade
-```
+
 
 26. ASSEMBLY TOOLS
 
 26.1 Required Tool List
 
-```
+
 MECHANICAL TOOLS:
 - Hex key set: 1.5mm to 10mm
 - Torque wrench: 0.5-5 Nm range
@@ -1120,13 +1116,12 @@ SPECIALTY TOOLS:
 - Pressure tester: 0-30 PSI gauge
 - Leak detector: Soap solution spray
 - Alignment tools: Precision squares and levels
-```
+
 
 27. CALIBRATION EQUIPMENT
 
 27.1 Measurement Tools
 
-```
 PRECISION INSTRUMENTS:
 - Digital caliper: 0-150mm, 0.01mm resolution
 - Micrometer: 0-25mm, 0.001mm resolution
@@ -1142,13 +1137,13 @@ CALIBRATION STANDARDS:
 - Temperature standards: Ice point and boiling point
 - Pressure gauge: 0-30 PSI, 0.25% accuracy
 - Flow meter: 0.1-100 ml/min, gravimetric verified
-```
+
 
 28. SAFETY EQUIPMENT
 
 28.1 Personal Protective Equipment
 
-```
+
 OPERATOR SAFETY:
 - Safety glasses: ANSI Z87.1 rated
 - Heat-resistant gloves: 500°C rating
@@ -1163,13 +1158,13 @@ EMERGENCY EQUIPMENT:
 - Eye wash station: Portable or plumbed
 - Spill kit: For chemical containment
 - Emergency stop: Additional remote button
-```
+
 
 29. SOFTWARE & FIRMWARE FILES
 
 29.1 Required Software Packages
 
-```
+
 FIRMWARE FILES:
 - Marlin 2.1.x base: With CoreXY configuration
 - Custom modifications: For food printing features
@@ -1187,13 +1182,13 @@ USER SOFTWARE:
 - Recipe editor: Nutritional calculation tools
 - Monitoring app: Remote status application
 - Maintenance software: Calibration and diagnostics
-```
+
 
 30. DOCUMENTATION & RECORDS
 
 30.1 Required Documentation
 
-```
+
 BUILD RECORDS:
 - Assembly checklist: Step-by-step verification
 - Test reports: For each subsystem
@@ -1213,6 +1208,6 @@ COMPLIANCE FILES:
 - Material safety data sheets: For all chemicals
 - Waste disposal procedures: Environmental compliance
 - Training records: Operator qualifications
-```
+
 
 This completes every physical component, tool, and documentation requirement needed to build the 3D food printer. the system is fully specified and ready for manufacturing.
