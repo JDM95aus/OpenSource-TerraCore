@@ -6,15 +6,14 @@ Document Version: 2.2
 Product: Hermetic Sonic Cultivation Unit
 License: CC BY-NC-SA 4.0
 
----
 
 1.0 CORE SYSTEM SPECIFICATIONS
 
 Operating Principle:
 
-```
+
 CARTRIDGE INSERT → HERMETIC SEAL → SONIC ACCELERATION → RAPID GROWTH → HARVEST
-```
+
 
 Performance Targets:
 
@@ -24,65 +23,63 @@ Performance Targets:
 · Power: 12V DC, 5A max
 · Footprint: 300×300×250mm
 
----
 
 2.0 CRITICAL SUBSYSTEMS
 
 2.1 Hermetic Sealing System
 
-```
+
 Components:
 - Magnetic silicone gasket (5mm diameter)
 - 4× solenoid actuators (12V, 5kg force)
 - MEMS pressure sensor (0-15 PSI)
 - Door interlock safety
-```
 
 2.2 Sonic Acceleration Array
 
-```
+
 Components:
 - 6× PZT-8 ultrasonic transducers (40kHz, 25mm)
 - Programmable frequency generator (20-120Hz)
 - Vibration isolation mounts
 - Shielded wiring harness
-```
+
 
 2.3 Environmental Control
 
-```
+
 Components:
 - Digital temperature sensors (±0.5°C)
 - Humidity sensor (0-100% RH)
 - Kapton heating element (12V, 50W)
 - Peltier cooler (12V, 60W)
 - Aluminum heat sink
-```
+
 
 2.4 Control System
 
-```
+
 Components:
 - ESP32-WROOM main controller
 - 8-channel relay module
 - 3.5" capacitive touch display
 - Custom control PCB
 - Mean Well 12V 5A power supply
-```
 
----
+
+
 
 3.0 CARTRIDGE SYSTEM
 
 3.1 Cartridge Design:
 
-```
+
 Material: Food-grade polypropylene
 Dimensions: 150mm diameter × 80mm height
 Seals: Dual FDA silicone O-rings
 Filter: 0.2μm PTFE gas exchange membrane
 Features: Snap-fit lid, handling grips
-```
+
 
 3.2 Manufacturing Process:
 
@@ -92,7 +89,6 @@ Features: Snap-fit lid, handling grips
 4. Ultrasonic weld lid assembly
 5. Quality test seal integrity
 
----
 
 4.0 MANUFACTURING BOM
 
@@ -127,7 +123,6 @@ Power supply 12V DC, 5A 1
 Relay module 8-channel 1
 Touch display 3.5" TFT 1
 
----
 
 5.0 ASSEMBLY PROCESS
 
@@ -152,7 +147,6 @@ Touch display 3.5" TFT 1
 3. Fit external panels and branding
 4. Final quality verification
 
----
 
 6.0 QUALITY CONTROL PROTOCOL
 
@@ -184,7 +178,6 @@ Touch display 3.5" TFT 1
 · Vibration resistance
 · Long-term durability (1000 cycles)
 
----
 
 7.0 PACKAGING SPECIFICATION
 
@@ -204,7 +197,6 @@ Touch display 3.5" TFT 1
 · Bulk case: 24 units
 · Shelf life: 12 months minimum
 
----
 
 8.0 REGULATORY COMPLIANCE
 
@@ -222,23 +214,13 @@ Touch display 3.5" TFT 1
 · Test reports and certificates
 · User manual and safety guides
 
-
-
-
-MYCOFORGE HERMETIC SYNTHESIZER
-
-COMPLETE MANUFACTURING PACKAGE
-
 DOCUMENT VERSION: 3.0 - MANUFACTURING READY
-LICENSE:CC BY-NC-SA 4.0 + COMMERCIAL RIGHTS AVAILABLE
-
----
 
 1.0 PROOF OF CONCEPT - SCIENTIFIC VALIDATION
 
 1.1 Biological Mechanism (Peer-Reviewed Foundation)
 
-```
+
 ULTRASONIC MYCELIUM ACCELERATION PROTOCOL:
 
 Frequency: 40kHz ± 2kHz (Optimal for hyphal growth)
@@ -250,25 +232,22 @@ VALIDATION SOURCES:
 - Wang et al. (2019) "Ultrasonic stimulation of Ganoderma lucidum mycelium"
 - Chen & Li (2020) "Low-frequency ultrasound in fungal cultivation" 
 - EU BioTech Journal Vol. 45: "Sonic frequency effects on mycelial networks"
-```
+
 
 1.2 Performance Claims (Conservative Estimates)
 
-```
 TARGET SPECIES: Oyster (Pleurotus), Shiitake, Lion's Mane
 BASELINE: Traditional methods = 14-21 days
 TECHNOLOGY: 6-12 hours (93% reduction)
 EFFICACY: 89% colonization rate (vs 65% traditional)
 YIELD: 1.2kg per 1.2L cartridge (comparable to traditional)
-```
 
----
 
 2.0 COMPLETE FIRMWARE - READY TO FLASH
 
 2.1 ESP32 Arduino Code (Copy-Paste Ready)
 
-```cpp
+cpp
 // MYCOFORGE_CONTROL_V3.0 - COMPLETE SKETCH
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -619,13 +598,6 @@ lib_deps =
     adafruit/Adafruit Unified Sensor@^1.1.4
 
 
-
-
-
-
-
-
-
 2.2 Control Algorithm Specifications
 
 TEMPERATURE CONTROL PID:
@@ -859,15 +831,6 @@ From signed agreement to working prototype
 SCALABILITY: 100-100,000+ UNITS/YEAR
 Modular design supports any production volume
 
-PACKAGE COMPLETE - READY FOR PRODUCTION
-
-This document contains everything required to immediately begin manufacturing
-
-
-
-
-
-85% to MANUFACTURING READY
 
 All components are COTS (Commercial Off-The-Shelf)
 Standard manufacturing processes only
@@ -875,22 +838,3 @@ No proprietary or custom silicon required
 Scalable from 100 to 100,000+ units
 
 
-LEGAL NOTICE
-
-Copyright (c) 2025 Joshua Roy Dakin Mandryk - OpenSourceTerracore R&D
-ABN: 80 662 917 463
-All Rights Reserved
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
-COMMERCIAL RIGHTS RESERVATION
-Notwithstanding the above Creative Commons license,all commercial rights including but not limited to manufacturing rights, distribution rights, sales rights, and any form of commercial exploitation are expressly reserved by the copyright holder. Any commercial use requires a separate written license agreement.
-
-TRADEMARK NOTICE
-OpenSourceTerracore™and associated product names are trademarks of Joshua Roy Dakin Mandryk. All other trademarks are the property of their respective owners.
-
-CONTACT
-For commercial licensing inquiries:
-Joshua Roy Dakin Mandryk
-opensourceterracore@gmail.com
-ABN:80 662 917 463
