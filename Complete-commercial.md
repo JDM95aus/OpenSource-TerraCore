@@ -1,13 +1,13 @@
 Food Output Examples
 
 rice and fresh salad
-![Commercial Model 1 - Complete Meal](./images/Commercial-model1.png)
+![Commercial Model 1 - Complete Meal](./Images/Commercial-model1.png)
 
 Pizza  
-![Commercial Model 2 - Custom Structure](./images/Commercial-model2.png)
+![Commercial Model 2 - Custom Structure](./Images/Commercial-model2.png)
 
 Creamy mash potato, steak and gravy
-![Commercial Model 3 - Color Optimized](./images/Commercial-model3.png)
+![Commercial Model 3 - Color Optimized](./Images/Commercial-model3.png)
 
 This document contains the complete, commercial-ready build plans for the OpenSourceTerraCore TC-1 countertop food synthesizer.
 
