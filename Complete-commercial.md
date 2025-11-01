@@ -1,3 +1,24 @@
+
+This document contains the complete, commercial-ready build plans for the OpenSourceTerraCore TC-1 countertop food synthesizer.
+
+The system is released under a dual-license model designed to prevent corporate enclosure while enabling widespread use:
+
+1. COMMERCIAL LICENSE: This specific TC-1 design and its associated branding are released under a Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 license. This allows for free building, personal use, and community distribution, but restricts mass commercial production for profit without a separate agreement.
+2. OPEN CORE: The fundamental physics, core mechanics, and biological processes are open source and can be implemented under OSI-compliant terms for derivative creations.
+
+The TC-1 synthesizer converts a pre-grown "Fuel Pod" (mycelium block) into a nutritionally complete, cooked meal via integrated grinding, pasteurization, nutrient/color injection, and 3D printing.
+
+The modular design consists of:
+
+· Bioconversion Core (Fuel Pod processing)
+· Cartridge System (Nutrition & Color injection)
+· Fabrication Module (3D Printing & Cooking)
+· Control System (Touchscreen UI)
+
+All components are designed for standard manufacturing. The license protects the technology's humanitarian purpose while providing a clear path for commercial collaboration.
+
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
