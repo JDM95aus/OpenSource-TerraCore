@@ -3,7 +3,7 @@ COMMERCIAL LICENSE FOR PROJECT TERRACORE TECHNOLOGY
 This Commercial License Agreement (the "Agreement") is offered by Joshua Roy Dakin Mandryk ("Licensor") to any entity ("Licensee") seeking to use the Project Terracore technology for commercial purposes.
 
 1. GRANT OF COMMERCIAL RIGHTS
-   The Licensor grants the Licensee a non-exclusive,worldwide license to use, modify, integrate, and distribute the Project Terracore technology for commercial purposes, including but not limited to:
+   The Licensor grants the Licensee a non-exclusive,worldwide license to use, modify, integrate, and distribute the Project OpenSourceTerracore technology for commercial purposes, including but not limited to:
 
 · Commercial product development and manufacturing
 · Integration into commercial systems and platforms
@@ -13,7 +13,7 @@ This Commercial License Agreement (the "Agreement") is offered by Joshua Roy Dak
 1. PROPRIETARY COMPONENTS
    This commercial license includes rights to proprietary components not available under the open-source license,including:
 
-· The Terracore Thermal Core system and manufacturing specifications
+· The OpenSourceTerracore Thermal Core system and manufacturing specifications
 · Professional CAD blueprints and technical documentation
 · Deposition system control algorithms and firmware
 · Biological process protocols and nutrient formulations
