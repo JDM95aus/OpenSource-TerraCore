@@ -4482,4 +4482,18 @@ END OF STANDARD
 
 
 
+Technical Rationale: Ultrasonic Transducer Function
 
+Hypothesis: The ultrasonic transducers are not for direct growth stimulation. Their function is environmental management to overcome known pinning bottlenecks.
+
+1. Primary Function: Boundary Layer Disruption
+
+· Problem: A stagnant, CO2-saturated boundary layer forms around mycelial pins, inhibiting essential gas exchange (O2/CO2) and leading to abortment.
+· Solution: Low-power, high-frequency (3MHz) standing waves create micro-agitation at the surface of the pins. This disrupts the stagnant layer, enhancing diffusion, without the physical damage caused by fans or direct spraying.
+
+2. Secondary Function: Advanced Nebulization
+
+· Problem: Standard humidification produces water droplets too large for optimal stomatal hydration.
+· Solution: Ultrasonic frequencies generate a sub-micron aerosol. This creates a hydrating "fog" that behaves like a gas, providing more uniform humidity penetration into the dense mycelial network.
+
+Research Basis: This applies first-principles physics from fluid dynamics and agricultural nebulization studies to mycology. It is an untested hypothesis for this specific application and requires empirical validation.
